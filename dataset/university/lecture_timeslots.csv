@@ -1,0 +1,276 @@
+module_id,prof_id,n_hours,degree,degree_year
+0,65,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,3
+1,42,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+2,71,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+2,71,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+3,40,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,1
+3,40,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,1
+3,40,5,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,1
+3,40,5,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,1
+3,76,1,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,1
+3,76,1,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,1
+4,56,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+4,56,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+4,56,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+4,56,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+4,97,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+4,97,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+4,97,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+4,97,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+5,56,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,1
+5,56,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,1
+5,56,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,1
+5,56,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,1
+6,36,3,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,2
+6,36,3,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,2
+6,41,3,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+6,41,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+7,31,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+7,31,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+8,86,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+9,86,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+10,30,2,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+11,68,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,"[1,2]"
+12,23,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,2
+13,5,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,1
+14,34,4,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+15,34,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+15,108,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+16,64,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+17,64,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+18,24,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+18,105,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+19,82,4,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+20,82,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+21,26,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,2
+21,26,1,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,2
+21,26,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,2
+21,26,1,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,2
+21,91,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,2
+21,91,1,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,2
+21,91,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,2
+21,91,1,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,2
+22,42,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,2
+23,23,6,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+23,114,6,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+24,27,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+25,27,4,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+26,48,3,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+27,48,4,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+28,1,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,1
+28,1,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,1
+29,1,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,1
+29,1,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,1
+29,98,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,1
+29,98,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,1
+30,37,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+30,47,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+31,83,6,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"[1,2]"
+32,83,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"[1,2]"
+32,83,1,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"[1,2]"
+33,83,3,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"[1,2]"
+34,53,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+35,40,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,"[1,2]"
+35,40,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+35,40,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,"[1,2]"
+35,40,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+36,13,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,2
+37,22,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,"[1,2]"
+37,95,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,"[1,2]"
+38,44,2,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+38,44,3,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+39,82,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,2
+40,69,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,1
+41,69,4,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,1
+42,20,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+42,89,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+43,4,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+43,4,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+44,4,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,"[1,2]"
+45,55,2,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+46,55,3,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+47,88,3,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+48,9,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,1
+49,17,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+49,17,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,2
+49,17,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+49,17,2,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,2
+50,86,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,1
+51,86,2,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,1
+52,45,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+52,45,4,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+53,45,1,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+53,45,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+54,2,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+54,2,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+54,99,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+54,99,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+55,11,1,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+56,11,1,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+56,11,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+57,58,3,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,2
+58,38,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,2
+59,65,2,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,1
+60,54,3,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+60,54,2,Laurea in Informatica [420] Corsi di laurea - UNICO,3
+61,54,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+62,81,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+63,81,3,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+64,49,3,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,1
+64,115,3,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,1
+65,72,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+66,72,3,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+67,67,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+67,67,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+68,36,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,36,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,36,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+68,36,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+68,63,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,63,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,63,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+68,63,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+68,107,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,107,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,1
+68,107,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+68,107,3,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,1
+69,62,1,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+69,62,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+70,10,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+70,13,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+71,74,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,2
+72,75,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+73,11,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,2
+73,64,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,2
+74,74,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+74,103,4,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+75,74,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+76,74,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+77,87,4,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,1
+78,25,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+79,51,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+80,57,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+81,32,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,"[1,2]"
+82,32,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+82,32,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+82,112,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+82,112,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+83,112,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+83,112,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+84,14,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+84,14,4,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+84,104,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+84,104,4,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+85,88,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+86,88,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+87,21,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+88,61,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+88,109,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
+89,18,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,1
+89,46,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,1
+90,6,3,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+90,6,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+91,36,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+92,76,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,"[1,2]"
+92,76,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,"[1,2]"
+93,43,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,2
+93,43,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,2
+94,46,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+94,67,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+95,26,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+95,26,1,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+95,26,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+95,26,1,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+96,46,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,1
+97,66,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+97,90,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+97,96,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+97,106,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+98,84,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+98,84,1,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+98,100,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+99,87,4,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+100,87,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+101,84,2,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,2
+101,84,4,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,2
+102,33,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,2
+103,3,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+103,16,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+104,8,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+105,28,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+106,29,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,2
+107,80,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,2
+108,43,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,2
+109,63,2,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,2
+110,23,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+111,44,2,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,2
+111,44,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,2
+112,73,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+112,73,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+113,12,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+113,12,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+113,73,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+113,73,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+114,19,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,1
+114,19,3,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,1
+114,111,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,1
+114,111,3,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,1
+115,55,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,2
+116,55,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,2
+117,21,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,1
+118,70,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+119,70,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
+120,70,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+120,113,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+121,39,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+122,60,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+122,110,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+123,35,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+124,35,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
+125,85,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+126,85,1,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+126,85,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+127,85,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+127,85,1,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+127,93,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+127,93,1,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
+128,59,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,1
+129,29,2,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+130,29,3,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,1
+131,88,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+132,88,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+133,21,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+134,110,3,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+134,110,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,1
+135,68,1,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+135,68,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2
+136,44,2,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,1
+136,44,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,1
+137,62,3,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,1
+137,90,3,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,1
+137,92,3,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,1
+138,62,4,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,1
+139,77,2,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,2
+140,50,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,1
+141,78,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,3
+141,78,3,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,3
+142,19,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+142,19,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+142,111,2,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,3
+142,111,2,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,3
+143,49,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+144,49,3,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,2
+145,15,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+145,101,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,1
+146,50,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+146,50,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,3
+147,78,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,"[1,2]"
+147,86,3,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,"[1,2]"
+148,83,6,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+148,83,1,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+148,83,2,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+149,83,3,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,3
+150,16,4,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+151,16,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
+152,28,2,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,2
+153,73,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,"[1,2]"

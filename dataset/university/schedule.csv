@@ -1,0 +1,936 @@
+prof_id,week_day,hour,semester,academic_year,module,degree,room,degree_year
+67,Thu,11,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula M [Borgo Roma - Ca' Vignal 2],3
+67,Thu,12,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula M [Borgo Roma - Ca' Vignal 2],3
+67,Tue,14,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],3
+67,Tue,15,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],3
+89,Mon,10,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+89,Mon,11,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+89,Thu,15,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+89,Thu,16,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+90,Mon,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Mon,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Mon,15,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Thu,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+90,Thu,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+90,Thu,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+90,Thu,12,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Thu,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Thu,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+90,Wed,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+90,Wed,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+90,Wed,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+47,Mon,8,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+47,Mon,9,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+47,Tue,8,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+47,Tue,9,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+73,Mon,11,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Mon,12,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Wed,16,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Wed,17,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Wed,18,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+91,Tue,11,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula D [Borgo Roma - Ca' Vignal 1],2
+91,Tue,12,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula D [Borgo Roma - Ca' Vignal 1],2
+91,Wed,8,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+91,Wed,9,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+91,Wed,16,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+91,Tue,11,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula D [Borgo Roma - Ca' Vignal 1],2
+91,Tue,12,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula D [Borgo Roma - Ca' Vignal 1],2
+91,Wed,8,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+91,Wed,9,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+91,Wed,16,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+19,Fri,12,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+19,Fri,13,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+19,Thu,10,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+19,Thu,11,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+19,Thu,12,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+19,Thu,16,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Thu,17,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Tue,11,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Tue,12,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Thu,16,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Thu,17,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Tue,11,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+19,Tue,12,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+92,Mon,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+92,Mon,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+92,Mon,15,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+92,Thu,12,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+92,Thu,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+92,Thu,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+93,Thu,10,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+93,Thu,11,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+93,Wed,14,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+95,Thu,8,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+95,Thu,9,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+95,Thu,10,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+34,Tue,15,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+34,Tue,16,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+34,Wed,15,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+34,Wed,16,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+49,Thu,10,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+49,Thu,11,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+49,Thu,12,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+49,Tue,10,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+49,Tue,11,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+49,Tue,12,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+96,Thu,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+96,Thu,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+96,Thu,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+96,Wed,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+96,Wed,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+96,Wed,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+97,Mon,13,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Mon,14,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,8,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,9,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,10,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Mon,13,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Mon,14,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,8,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,9,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+97,Tue,10,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+98,Mon,11,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Mon,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Wed,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Wed,13,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Mon,11,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Mon,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Wed,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+98,Wed,13,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+13,Thu,11,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+13,Thu,12,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+13,Tue,16,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+13,Tue,17,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+40,Tue,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Tue,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Tue,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Tue,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+99,Fri,8,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+99,Fri,9,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+99,Wed,13,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+99,Wed,14,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+99,Wed,15,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+63,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+63,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+100,Fri,14,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+100,Fri,15,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+100,Mon,10,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+100,Mon,11,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+60,Fri,10,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+60,Fri,11,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+60,Fri,12,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+16,Mon,14,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+16,Mon,15,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+16,Tue,14,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+16,Tue,15,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+101,Fri,12,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+101,Fri,13,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+101,Mon,12,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+101,Mon,13,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+36,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+36,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+78,Thu,8,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+78,Thu,9,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+78,Thu,10,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+78,Tue,16,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+78,Tue,17,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+78,Tue,18,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+103,Wed,11,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+103,Wed,12,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+103,Wed,13,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+103,Wed,14,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+11,Thu,15,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+11,Thu,16,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+11,Wed,8,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+11,Wed,9,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+61,Fri,8,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+61,Fri,9,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+61,Thu,8,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],"[1,2]"
+61,Thu,9,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],"[1,2]"
+70,Tue,13,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+70,Tue,14,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+70,Wed,8,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+70,Wed,9,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+104,Mon,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+104,Mon,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+104,Tue,13,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+104,Tue,14,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+104,Tue,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+104,Tue,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+104,Wed,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+104,Wed,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+105,Fri,14,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+105,Fri,15,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+105,Mon,15,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+105,Mon,16,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+23,Thu,8,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+23,Thu,9,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+23,Thu,10,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+23,Thu,11,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+23,Thu,12,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+23,Thu,13,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+66,Thu,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+66,Thu,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+66,Thu,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+66,Wed,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+66,Wed,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+66,Wed,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+32,Mon,8,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+32,Mon,9,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+32,Tue,13,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+32,Tue,14,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+32,Tue,15,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+2,Fri,8,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+2,Fri,9,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+2,Wed,13,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+2,Wed,14,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+2,Wed,15,1,2023/2024,Epidemiological methods and biostatistics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+67,Fri,10,1,2023/2024,Foundations of data analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+67,Fri,11,1,2023/2024,Foundations of data analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+67,Wed,12,1,2023/2024,Foundations of data analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+67,Wed,13,1,2023/2024,Foundations of data analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+67,Wed,14,1,2023/2024,Foundations of data analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+76,Tue,8,1,2023/2024,Methods in representation theory (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+76,Tue,9,1,2023/2024,Methods in representation theory (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+76,Tue,8,1,2023/2024,Methods in representation theory (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+76,Tue,9,1,2023/2024,Methods in representation theory (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+76,Tue,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+76,Tue,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+76,Tue,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+76,Tue,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+15,Fri,12,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+15,Fri,13,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+15,Mon,12,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+15,Mon,13,1,2023/2024,Supramolecular chemistry of biological systems,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+106,Thu,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+106,Thu,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+106,Thu,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+106,Wed,8,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+106,Wed,9,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+106,Wed,10,1,2023/2024,Metodologie biomolecolari e genetiche teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+22,Thu,8,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+22,Thu,9,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+22,Thu,10,1,2023/2024,Computational epistemology and philosophy,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+107,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Fri,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Fri,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Mon,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,8,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,9,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+107,Wed,10,1,2023/2024,Functional analysis,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],1
+108,Tue,15,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+108,Tue,16,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+108,Wed,15,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+108,Wed,16,1,2023/2024,Biologia sintetica della produttività vegetale Teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+109,Fri,8,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+109,Fri,9,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+109,Thu,8,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],"[1,2]"
+109,Thu,9,1,2023/2024,Marketing research for agrifood and natural resources,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],"[1,2]"
+30,Mon,11,1,2023/2024,Basi di dati Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+30,Mon,12,1,2023/2024,Basi di dati Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+30,Tue,11,1,2023/2024,Basi di dati Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+30,Tue,12,1,2023/2024,Basi di dati Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+88,Mon,11,1,2023/2024,Machine learning for biological structures and networks Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+88,Mon,12,1,2023/2024,Machine learning for biological structures and networks Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+88,Mon,16,1,2023/2024,Elaborazione di segnali e immagini Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],3
+88,Mon,17,1,2023/2024,Elaborazione di segnali e immagini Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],3
+88,Mon,18,1,2023/2024,Elaborazione di segnali e immagini Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],3
+88,Tue,10,1,2023/2024,Machine learning for biological structures and networks Laboratorio,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+88,Tue,11,1,2023/2024,Machine learning for biological structures and networks Laboratorio,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+88,Tue,12,1,2023/2024,Machine learning for biological structures and networks Laboratorio,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+88,Tue,14,1,2023/2024,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+88,Tue,15,1,2023/2024,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+88,Tue,16,1,2023/2024,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+88,Wed,11,1,2023/2024,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+88,Wed,12,1,2023/2024,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+73,Fri,14,1,2023/2024,Planning and Automated Reasoning AUTOMATED REASONING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Fri,15,1,2023/2024,Planning and Automated Reasoning AUTOMATED REASONING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Fri,16,1,2023/2024,Planning and Automated Reasoning AUTOMATED REASONING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Mon,15,1,2023/2024,Verifica automatica di sistemi,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+73,Mon,16,1,2023/2024,Verifica automatica di sistemi,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+73,Tue,15,1,2023/2024,Verifica automatica di sistemi,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+73,Tue,16,1,2023/2024,Verifica automatica di sistemi,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+73,Wed,11,1,2023/2024,Planning and Automated Reasoning AUTOMATED REASONING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+73,Wed,12,1,2023/2024,Planning and Automated Reasoning AUTOMATED REASONING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+56,Mon,8,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,9,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,10,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,8,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,9,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,10,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Mon,13,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Mon,14,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Mon,13,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Mon,14,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Thu,14,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Thu,15,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Thu,14,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Thu,15,1,2023/2024,Analisi matematica I,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+56,Tue,8,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Tue,9,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Tue,10,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Tue,8,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Tue,9,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+56,Tue,10,1,2023/2024,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,9,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,10,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,11,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Thu,13,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Thu,14,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,9,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,10,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Fri,11,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Thu,13,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+17,Thu,14,1,2023/2024,Elettromagnetismo e ottica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula A [Borgo Roma - Ca' Vignal 1],2
+62,Mon,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Mon,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Mon,15,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Thu,12,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Thu,13,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Thu,14,1,2023/2024,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],1
+62,Thu,15,1,2023/2024,Functional proteomics,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+62,Tue,13,1,2023/2024,Scienze omiche MODULO II Proteomica laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+62,Tue,14,1,2023/2024,Scienze omiche MODULO II Proteomica laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+62,Tue,15,1,2023/2024,Scienze omiche MODULO II Proteomica laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+62,Tue,16,1,2023/2024,Scienze omiche MODULO II Proteomica laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+62,Tue,17,1,2023/2024,Functional proteomics,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+62,Tue,18,1,2023/2024,Functional proteomics,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+27,Mon,14,1,2023/2024,Chimica analitica applicata agli alimenti LABORATORIO DI CHIMICA ANALITICA APPLICATA AGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+27,Mon,15,1,2023/2024,Chimica analitica applicata agli alimenti LABORATORIO DI CHIMICA ANALITICA APPLICATA AGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+27,Mon,16,1,2023/2024,Chimica analitica applicata agli alimenti LABORATORIO DI CHIMICA ANALITICA APPLICATA AGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+27,Mon,17,1,2023/2024,Chimica analitica applicata agli alimenti LABORATORIO DI CHIMICA ANALITICA APPLICATA AGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+27,Thu,9,1,2023/2024,Chimica analitica applicata agli alimenti CHIMICA ANALITICA APPLICATA AGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+27,Thu,10,1,2023/2024,Chimica analitica applicata agli alimenti CHIMICA ANALITICA APPLICATA AGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+27,Wed,14,1,2023/2024,Chimica analitica applicata agli alimenti CHIMICA ANALITICA APPLICATA AGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+27,Wed,15,1,2023/2024,Chimica analitica applicata agli alimenti CHIMICA ANALITICA APPLICATA AGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+41,Fri,14,1,2023/2024,Analisi matematica II,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+41,Fri,15,1,2023/2024,Analisi matematica II,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+41,Fri,16,1,2023/2024,Analisi matematica II,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+41,Tue,16,1,2023/2024,Analisi matematica II,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+41,Tue,17,1,2023/2024,Analisi matematica II,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+44,Mon,11,1,2023/2024,Robotics,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+44,Mon,12,1,2023/2024,Robotics,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+44,Thu,11,1,2023/2024,Physical human-robot interaction,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],2
+44,Thu,12,1,2023/2024,Physical human-robot interaction,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],2
+44,Thu,15,1,2023/2024,Controlli automatici,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+44,Thu,16,1,2023/2024,Controlli automatici,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+44,Tue,10,1,2023/2024,Robotics,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+44,Tue,11,1,2023/2024,Robotics,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+44,Tue,12,1,2023/2024,Robotics,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+44,Wed,8,1,2023/2024,Controlli automatici,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+44,Wed,9,1,2023/2024,Controlli automatici,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+44,Wed,10,1,2023/2024,Controlli automatici,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+44,Wed,11,1,2023/2024,Physical human-robot interaction,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],2
+44,Wed,12,1,2023/2024,Physical human-robot interaction,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],2
+44,Wed,13,1,2023/2024,Physical human-robot interaction,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],2
+26,Fri,8,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+26,Fri,9,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+26,Thu,9,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+26,Thu,10,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+26,Tue,10,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula D [Borgo Roma - Ca' Vignal 1],3
+26,Fri,8,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+26,Fri,9,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+26,Thu,9,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+26,Thu,10,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+26,Tue,10,1,2023/2024,Metodi numerici per le equazioni differenziali,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula D [Borgo Roma - Ca' Vignal 1],3
+26,Tue,11,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula D [Borgo Roma - Ca' Vignal 1],2
+26,Tue,12,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula D [Borgo Roma - Ca' Vignal 1],2
+26,Wed,8,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+26,Wed,9,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+26,Wed,16,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+26,Tue,11,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula D [Borgo Roma - Ca' Vignal 1],2
+26,Tue,12,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula D [Borgo Roma - Ca' Vignal 1],2
+26,Wed,8,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+26,Wed,9,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+26,Wed,16,1,2023/2024,Calcolo numerico II con laboratorio,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+31,Mon,10,1,2023/2024,Analisi matematica Matricole dispari,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+31,Mon,11,1,2023/2024,Analisi matematica Matricole dispari,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+31,Mon,12,1,2023/2024,Analisi matematica Matricole dispari,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+31,Thu,14,1,2023/2024,Analisi matematica Matricole dispari,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+31,Thu,15,1,2023/2024,Analisi matematica Matricole dispari,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+68,Fri,12,1,2023/2024,Reti di calcolatori,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+68,Mon,11,1,2023/2024,Big data,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+68,Mon,12,1,2023/2024,Big data,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],"[1,2]"
+68,Thu,8,1,2023/2024,Reti di calcolatori,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+68,Thu,9,1,2023/2024,Reti di calcolatori,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+68,Tue,16,1,2023/2024,Big data,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula M [Borgo Roma - Ca' Vignal 2],"[1,2]"
+68,Tue,17,1,2023/2024,Big data,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula M [Borgo Roma - Ca' Vignal 2],"[1,2]"
+68,Wed,10,1,2023/2024,Reti di calcolatori,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+68,Wed,11,1,2023/2024,Reti di calcolatori,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+110,Fri,10,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+110,Fri,11,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+110,Fri,12,1,2023/2024,Programmazione I Matricole dispari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+110,Tue,8,1,2023/2024,Reinforcement learning and Advanced programming for AI Reinforcement Learning,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+110,Tue,9,1,2023/2024,Reinforcement learning and Advanced programming for AI Reinforcement Learning,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+110,Tue,10,1,2023/2024,Reinforcement learning and Advanced programming for AI Reinforcement Learning,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+110,Wed,14,1,2023/2024,Reinforcement learning and Advanced programming for AI Reinforcement Learning,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+110,Wed,15,1,2023/2024,Reinforcement learning and Advanced programming for AI Reinforcement Learning,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+81,Fri,13,1,2023/2024,Fondamenti di ingegneria del software Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+81,Fri,14,1,2023/2024,Fondamenti di ingegneria del software Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+81,Fri,15,1,2023/2024,Fondamenti di ingegneria del software Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+81,Thu,16,1,2023/2024,Fondamenti di ingegneria del software Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+81,Thu,17,1,2023/2024,Fondamenti di ingegneria del software Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+83,Fri,13,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Fri,14,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Fri,15,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Fri,16,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Fri,17,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Fri,18,1,2023/2024,Clinical proteomics laboratorio 1° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Thu,13,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Thu,14,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Thu,15,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Thu,16,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Thu,17,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Thu,18,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Tue,13,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Tue,14,1,2023/2024,Tecniche analitiche di chimica clinica teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+83,Tue,15,1,2023/2024,Tecniche analitiche di chimica clinica teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+83,Tue,16,1,2023/2024,Tecniche analitiche di chimica clinica teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+83,Tue,17,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Tue,18,1,2023/2024,Tecniche analitiche di chimica clinica laboratorio,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],3
+83,Wed,13,1,2023/2024,Clinical proteomics laboratorio 2° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Wed,14,1,2023/2024,Clinical proteomics laboratorio 2° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Wed,15,1,2023/2024,Clinical proteomics teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Wed,16,1,2023/2024,Clinical proteomics teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Wed,17,1,2023/2024,Clinical proteomics teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+83,Wed,18,1,2023/2024,Clinical proteomics laboratorio 2° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],"[1,2]"
+46,Fri,12,1,2023/2024,Metodi quantitativi per le biotecnologie,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+46,Fri,13,1,2023/2024,Metodi quantitativi per le biotecnologie,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+46,Mon,14,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Mon,15,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Thu,8,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Thu,9,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Thu,11,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula M [Borgo Roma - Ca' Vignal 2],3
+46,Thu,12,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula M [Borgo Roma - Ca' Vignal 2],3
+46,Tue,8,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Tue,9,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Tue,11,1,2023/2024,Metodi quantitativi per le biotecnologie,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+46,Tue,12,1,2023/2024,Metodi quantitativi per le biotecnologie,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+46,Tue,14,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],3
+46,Tue,15,1,2023/2024,Metodi matematici e statistici in biologia,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],3
+46,Wed,10,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+46,Wed,11,1,2023/2024,Matematica e statistica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],1
+10,Thu,11,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+10,Thu,12,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+10,Tue,16,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+10,Tue,17,1,2023/2024,Fundamental algorithms for bioinformatics Algorithm design,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+71,Thu,8,1,2023/2024,Algebra lineare,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+71,Thu,9,1,2023/2024,Algebra lineare,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+71,Wed,15,1,2023/2024,Algebra lineare,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+71,Wed,16,1,2023/2024,Algebra lineare,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+71,Wed,17,1,2023/2024,Algebra lineare,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+48,Mon,8,1,2023/2024,Chimica degli alimenti CHIMICA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+48,Mon,9,1,2023/2024,Chimica degli alimenti CHIMICA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+48,Mon,10,1,2023/2024,Chimica degli alimenti CHIMICA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+48,Tue,14,1,2023/2024,Chimica degli alimenti LABORATORIO DI CHIMICA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+48,Tue,15,1,2023/2024,Chimica degli alimenti LABORATORIO DI CHIMICA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+48,Tue,16,1,2023/2024,Chimica degli alimenti LABORATORIO DI CHIMICA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+48,Tue,17,1,2023/2024,Chimica degli alimenti LABORATORIO DI CHIMICA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Chimica [Borgo Roma - Ca' Vignal 3],2
+64,Mon,8,1,2023/2024,Biomedicine and bioinformatics databases Fundamentals of database systems Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+64,Mon,9,1,2023/2024,Biomedicine and bioinformatics databases Fundamentals of database systems Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+64,Mon,10,1,2023/2024,Biomedicine and bioinformatics databases Fundamentals of database systems Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+64,Thu,15,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+64,Thu,16,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+64,Tue,8,1,2023/2024,Biomedicine and bioinformatics databases Fundamentals of database systems Lab.,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+64,Tue,9,1,2023/2024,Biomedicine and bioinformatics databases Fundamentals of database systems Lab.,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+64,Wed,8,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+64,Wed,9,1,2023/2024,Healthcare information systems,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+8,Fri,8,1,2023/2024,Molecular oncology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+8,Fri,9,1,2023/2024,Molecular oncology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+8,Mon,16,1,2023/2024,Molecular oncology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+8,Mon,17,1,2023/2024,Molecular oncology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+5,Tue,13,1,2023/2024,Biologia generale e cellulare BIOLOGIA GENERALE E CELLULARE: I,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+5,Tue,14,1,2023/2024,Biologia generale e cellulare BIOLOGIA GENERALE E CELLULARE: I,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+5,Wed,8,1,2023/2024,Biologia generale e cellulare BIOLOGIA GENERALE E CELLULARE: I,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+5,Wed,9,1,2023/2024,Biologia generale e cellulare BIOLOGIA GENERALE E CELLULARE: I,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+111,Fri,12,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+111,Fri,13,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+111,Thu,10,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+111,Thu,11,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+111,Thu,12,1,2023/2024,Probability for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+111,Thu,16,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Thu,17,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Tue,11,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Tue,12,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Thu,16,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Thu,17,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Tue,11,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+111,Tue,12,1,2023/2024,Sistemi stocastici,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+4,Fri,8,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Fri,9,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Fri,14,1,2023/2024,Ecologia per le biorisorse Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+4,Fri,15,1,2023/2024,Ecologia per le biorisorse Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+4,Thu,8,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Thu,9,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Thu,10,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Thu,15,1,2023/2024,Ecologia per le biorisorse Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+4,Thu,16,1,2023/2024,Ecologia per le biorisorse Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+4,Wed,8,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Wed,9,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+4,Wed,10,1,2023/2024,Ecologia applicata,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+75,Mon,15,1,2023/2024,Genetica e miglioramento di colture industriali no food,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+75,Mon,16,1,2023/2024,Genetica e miglioramento di colture industriali no food,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+75,Wed,13,1,2023/2024,Genetica e miglioramento di colture industriali no food,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+75,Wed,14,1,2023/2024,Genetica e miglioramento di colture industriali no food,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+34,Thu,8,1,2023/2024,Biologia sintetica della produttività vegetale Laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+34,Thu,9,1,2023/2024,Biologia sintetica della produttività vegetale Laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+34,Thu,10,1,2023/2024,Biologia sintetica della produttività vegetale Laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+34,Thu,11,1,2023/2024,Biologia sintetica della produttività vegetale Laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+49,Thu,13,1,2023/2024,Software security Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+49,Thu,14,1,2023/2024,Software security Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+49,Thu,15,1,2023/2024,Software security Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+49,Wed,12,1,2023/2024,Software security Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+49,Wed,13,1,2023/2024,Software security Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+28,Fri,10,1,2023/2024,Molecular pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+28,Fri,11,1,2023/2024,Molecular pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+28,Thu,10,1,2023/2024,Toxicology and applied pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],2
+28,Thu,11,1,2023/2024,Toxicology and applied pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],2
+28,Tue,12,1,2023/2024,Molecular pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+28,Tue,13,1,2023/2024,Molecular pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+28,Wed,11,1,2023/2024,Toxicology and applied pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],2
+28,Wed,12,1,2023/2024,Toxicology and applied pharmacology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],2
+57,Mon,11,1,2023/2024,Laboratorio di bioinformatica Mod.1 Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+57,Mon,12,1,2023/2024,Laboratorio di bioinformatica Mod.1 Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+74,Fri,10,1,2023/2024,Genetica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+74,Fri,11,1,2023/2024,Genetica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+74,Mon,16,1,2023/2024,Human genomics and epigenomics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+74,Mon,17,1,2023/2024,Human genomics and epigenomics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+74,Thu,12,1,2023/2024,Genetica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+74,Thu,13,1,2023/2024,Genetica,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+74,Tue,10,1,2023/2024,Human genome sequencing and interpretation Teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+74,Tue,11,1,2023/2024,Human genome sequencing and interpretation Teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+74,Wed,11,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+74,Wed,12,1,2023/2024,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],1
+74,Wed,13,1,2023/2024,Human genome sequencing and interpretation Teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+74,Wed,14,1,2023/2024,Human genome sequencing and interpretation Teoria,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+74,Wed,16,1,2023/2024,Human genomics and epigenomics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+74,Wed,17,1,2023/2024,Human genomics and epigenomics,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+112,Mon,8,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Mon,9,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Mon,15,1,2023/2024,Logica Matricole pari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Mon,16,1,2023/2024,Logica Matricole pari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Mon,17,1,2023/2024,Logica Matricole pari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Thu,12,1,2023/2024,Logica Matricole pari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Thu,13,1,2023/2024,Logica Matricole pari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Tue,13,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Tue,14,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+112,Tue,15,1,2023/2024,Logica Matricole dispari,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+9,Thu,10,1,2023/2024,Elementi di fisica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+9,Thu,11,1,2023/2024,Elementi di fisica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+9,Tue,10,1,2023/2024,Elementi di fisica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+9,Tue,11,1,2023/2024,Elementi di fisica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+12,Mon,11,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+12,Mon,12,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+12,Wed,16,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+12,Wed,17,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+12,Wed,18,1,2023/2024,Planning and Automated Reasoning PLANNING,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],1
+113,Tue,13,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+113,Tue,14,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+113,Wed,8,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+113,Wed,9,1,2023/2024,Processi di trasformazione e conservazione degli alimenti teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+18,Thu,13,1,2023/2024,Matematica e statistica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+18,Thu,14,1,2023/2024,Matematica e statistica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+18,Tue,8,1,2023/2024,Matematica e statistica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+18,Tue,9,1,2023/2024,Matematica e statistica,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],1
+77,Mon,16,1,2023/2024,Sintesi di molecole bioattive TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+77,Mon,17,1,2023/2024,Sintesi di molecole bioattive TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+77,Tue,15,1,2023/2024,Sintesi di molecole bioattive TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+77,Tue,16,1,2023/2024,Sintesi di molecole bioattive TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+43,Mon,9,1,2023/2024,Metodi informazionali,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+43,Mon,10,1,2023/2024,Metodi informazionali,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+43,Thu,13,1,2023/2024,Natural computing,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+43,Thu,14,1,2023/2024,Natural computing,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+43,Tue,8,1,2023/2024,Metodi informazionali,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+43,Tue,9,1,2023/2024,Metodi informazionali,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+43,Tue,10,1,2023/2024,Metodi informazionali,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+43,Wed,10,1,2023/2024,Natural computing,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+43,Wed,11,1,2023/2024,Natural computing,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+86,Fri,8,1,2023/2024,Architettura degli elaboratori Matricole dispari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Fri,9,1,2023/2024,Architettura degli elaboratori Matricole dispari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Fri,14,1,2023/2024,Embedded e IoT systems design Industrial IoT and Cyber-Physical Production Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Fri,15,1,2023/2024,Embedded e IoT systems design Industrial IoT and Cyber-Physical Production Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Mon,13,1,2023/2024,Architettura degli elaboratori Matricole pari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Mon,14,1,2023/2024,Architettura degli elaboratori Matricole pari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Thu,8,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Thu,9,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Thu,10,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Thu,13,1,2023/2024,Embedded e IoT systems design Industrial IoT and Cyber-Physical Production Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Thu,14,1,2023/2024,Embedded e IoT systems design Industrial IoT and Cyber-Physical Production Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Thu,16,1,2023/2024,Architettura degli elaboratori Matricole dispari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Thu,17,1,2023/2024,Architettura degli elaboratori Matricole dispari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Tue,8,1,2023/2024,Architettura degli elaboratori Matricole pari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Tue,9,1,2023/2024,Architettura degli elaboratori Matricole pari Teoria base,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+86,Tue,16,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Tue,17,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Tue,18,1,2023/2024,Systems verification e testing,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],"[1,2]"
+86,Wed,16,1,2023/2024,Embedded e IoT systems design Embedded and IoT Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Wed,17,1,2023/2024,Embedded e IoT systems design Embedded and IoT Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+86,Wed,18,1,2023/2024,Embedded e IoT systems design Embedded and IoT Systems,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Laboratorio Ciberfisico [Borgo Roma - Ca' Vignal 3],1
+45,Mon,17,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Mon,18,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Thu,13,1,2023/2024,Enzimologia industriale TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+45,Thu,14,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Thu,15,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Thu,16,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Thu,17,1,2023/2024,Enzimologia industriale LABORATORIO,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Laboratorio di Biochimica [Borgo Roma - Ca' Vignal 3],1
+45,Tue,13,1,2023/2024,Enzimologia industriale TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+45,Tue,14,1,2023/2024,Enzimologia industriale TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+14,Mon,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+14,Mon,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+14,Tue,13,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+14,Tue,14,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+14,Tue,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+14,Tue,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+14,Wed,15,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+14,Wed,16,1,2023/2024,"Logistics, operations e supply chain",Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+29,Fri,8,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+29,Fri,9,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+29,Fri,10,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+29,Fri,11,1,2023/2024,Programming for bioinformatics Laboratorio,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+29,Fri,12,1,2023/2024,Programming for bioinformatics Laboratorio,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+29,Thu,8,1,2023/2024,Programming for bioinformatics Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+29,Thu,9,1,2023/2024,Programming for bioinformatics Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+29,Thu,10,1,2023/2024,Programming for bioinformatics Teoria,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+29,Tue,8,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+29,Tue,9,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+29,Tue,10,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+29,Tue,14,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+29,Tue,15,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+29,Tue,16,1,2023/2024,Multi-omics single-cell analysis,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Sala riunioni (biblioteca) [Borgo Roma - Ca' Vignal 1],2
+6,Fri,14,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Fri,15,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Fri,16,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Thu,14,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Thu,15,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Tue,15,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Tue,16,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+6,Tue,17,1,2023/2024,Matematica finanziaria,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],3
+114,Thu,8,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+114,Thu,9,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+114,Thu,10,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+114,Thu,11,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+114,Thu,12,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+114,Thu,13,1,2023/2024,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3° turno,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,"Laboratorio di Microbiologia, Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3]",1
+53,Mon,8,1,2023/2024,Comparative and transnational law e technology,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+53,Mon,9,1,2023/2024,Comparative and transnational law e technology,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+53,Thu,13,1,2023/2024,Comparative and transnational law e technology,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+53,Thu,14,1,2023/2024,Comparative and transnational law e technology,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+13,Tue,11,1,2023/2024,Computational analysis of genome-scale sequences,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+13,Tue,12,1,2023/2024,Computational analysis of genome-scale sequences,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],2
+13,Wed,13,1,2023/2024,Computational analysis of genome-scale sequences,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+13,Wed,14,1,2023/2024,Computational analysis of genome-scale sequences,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula I [Borgo Roma - Ca' Vignal 2],2
+40,Mon,10,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Mon,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Mon,10,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Mon,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Mon,12,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Mon,13,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Mon,14,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Mon,12,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Mon,13,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Mon,14,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Thu,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Thu,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Thu,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Thu,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Thu,13,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Computational,"[1,2]"
+40,Thu,14,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Computational,"[1,2]"
+40,Tue,10,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Tue,11,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Tue,12,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - MATHEMATICS FOR EDUCATION,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Thu,13,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Computational,"[1,2]"
+40,Thu,14,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Computational,"[1,2]"
+40,Tue,10,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Tue,11,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Tue,12,1,2023/2024,Computational algebra,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula G [Borgo Roma - Ca' Vignal 2],"[1,2]"
+40,Wed,9,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,10,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,13,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,9,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,10,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,11,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,12,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+40,Wed,13,1,2023/2024,Algebra lineare con elementi di geometria ALGEBRA LINEARE,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula E [Borgo Roma - Ca' Vignal 1],1
+59,Fri,14,1,2023/2024,Programming and database Programming,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+59,Fri,15,1,2023/2024,Programming and database Programming,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],1
+59,Tue,8,1,2023/2024,Programming and database Programming,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+59,Tue,9,1,2023/2024,Programming and database Programming,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+63,Fri,12,1,2023/2024,Optimization,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula H [Borgo Roma - Ca' Vignal 2],2
+63,Fri,13,1,2023/2024,Optimization,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Aula H [Borgo Roma - Ca' Vignal 2],2
+63,Mon,13,1,2023/2024,Optimization,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+63,Mon,14,1,2023/2024,Optimization,Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+51,Thu,9,1,2023/2024,Laboratorio di bioinformatica Mod.1 Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+51,Thu,10,1,2023/2024,Laboratorio di bioinformatica Mod.1 Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+51,Thu,11,1,2023/2024,Laboratorio di bioinformatica Mod.1 Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+65,Fri,10,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+65,Fri,11,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+65,Thu,8,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+65,Thu,9,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+65,Tue,13,1,2023/2024,Acquisizione e analisi di immagini biomediche PARTE II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula F [Borgo Roma - Ca' Vignal 1],3
+65,Tue,14,1,2023/2024,Acquisizione e analisi di immagini biomediche PARTE II,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula F [Borgo Roma - Ca' Vignal 1],3
+65,Wed,10,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+65,Wed,11,1,2023/2024,Fisica-statistica medica FONDAMENTI DI FISICA,Laurea magistrale a ciclo unico in Medicina e chirurgia [395] Corsi di laurea magistrale a ciclo unico - UNICO,Aula D [Borgo Roma - Istituti Biologici Blocco A],1
+54,Mon,8,1,2023/2024,Fondamenti dell'informatica,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+54,Mon,9,1,2023/2024,Fondamenti dell'informatica,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+54,Mon,10,1,2023/2024,Fondamenti dell'informatica,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+54,Tue,8,1,2023/2024,Fondamenti di analisi e verifica del software,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+54,Tue,9,1,2023/2024,Fondamenti di analisi e verifica del software,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+54,Wed,10,1,2023/2024,Fondamenti di analisi e verifica del software,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+54,Wed,11,1,2023/2024,Fondamenti di analisi e verifica del software,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],2
+54,Wed,14,1,2023/2024,Fondamenti dell'informatica,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+54,Wed,15,1,2023/2024,Fondamenti dell'informatica,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+115,Thu,10,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+115,Thu,11,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+115,Thu,12,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+115,Tue,10,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+115,Tue,11,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+115,Tue,12,1,2023/2024,Fondamenti di linguaggi di programmazione e specifica Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+20,Mon,10,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+20,Mon,11,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+20,Thu,15,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+20,Thu,16,1,2023/2024,Digital transformation and IT change,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+16,Fri,12,1,2023/2024,Tecnologie molecolari applicate ai vegetali teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+16,Fri,13,1,2023/2024,Tecnologie molecolari applicate ai vegetali teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+16,Mon,8,1,2023/2024,Tecnologie molecolari applicate ai vegetali laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+16,Mon,9,1,2023/2024,Tecnologie molecolari applicate ai vegetali laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+16,Mon,10,1,2023/2024,Tecnologie molecolari applicate ai vegetali laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+16,Mon,11,1,2023/2024,Tecnologie molecolari applicate ai vegetali laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+16,Wed,13,1,2023/2024,Tecnologie molecolari applicate ai vegetali teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+16,Wed,14,1,2023/2024,Tecnologie molecolari applicate ai vegetali teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+37,Mon,8,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+37,Mon,9,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+37,Tue,8,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+37,Tue,9,1,2023/2024,Clinical molecular biology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+69,Fri,9,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari LABORATORIO DI DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI Laboratorio 2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3],1
+69,Fri,10,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari LABORATORIO DI DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI Laboratorio 2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3],1
+69,Fri,11,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari LABORATORIO DI DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI Laboratorio 2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3],1
+69,Fri,12,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari LABORATORIO DI DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI Laboratorio 2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Biologia [Borgo Roma - Ca' Vignal 3],1
+69,Mon,9,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI (TEORIA) Teoria 1,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+69,Mon,10,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI (TEORIA) Teoria 1,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+69,Thu,8,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI (TEORIA) Teoria 1,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+69,Thu,9,1,2023/2024,Difesa e sostenibilità dei sistemi produttivi alimentari DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI (TEORIA) Teoria 1,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],1
+50,Fri,8,1,2023/2024,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+50,Fri,9,1,2023/2024,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+50,Fri,11,1,2023/2024,Sistemi informativi aziendali,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+50,Fri,12,1,2023/2024,Sistemi informativi aziendali,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+50,Thu,8,1,2023/2024,Sistemi informativi aziendali,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+50,Thu,9,1,2023/2024,Sistemi informativi aziendali,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula I [Borgo Roma - Ca' Vignal 2],1
+50,Wed,8,1,2023/2024,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+50,Wed,9,1,2023/2024,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+50,Wed,10,1,2023/2024,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],3
+36,Mon,9,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Mon,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Mon,11,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Mon,9,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Mon,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Mon,11,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Thu,13,1,2023/2024,Mathematical modelling in the applied sciences (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],"[1,2]"
+36,Thu,14,1,2023/2024,Mathematical modelling in the applied sciences (seminar course),Laurea magistrale in Mathematics [389] Corsi di laurea magistrale - APPLIED MATHEMATICS,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],"[1,2]"
+36,Tue,8,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Tue,9,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Tue,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,11,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,12,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - MODELLISTICO-COMPUTAZIONALE,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Tue,8,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Tue,9,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Tue,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,10,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,11,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+36,Wed,12,1,2023/2024,Analisi matematica II,Laurea in Matematica Applicata [418] Corsi di laurea - ECONOMICO-FINANZIARIO,Aula F [Borgo Roma - Ca' Vignal 1],2
+38,Wed,9,1,2023/2024,Ethics and law of data protection LAW Parte 2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+38,Wed,10,1,2023/2024,Ethics and law of data protection LAW Parte 2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula H [Borgo Roma - Ca' Vignal 2],2
+72,Mon,13,1,2023/2024,Fondamenti di sicurezza e privacy Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+72,Mon,14,1,2023/2024,Fondamenti di sicurezza e privacy Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+72,Wed,14,1,2023/2024,Fondamenti di sicurezza e privacy Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+72,Wed,15,1,2023/2024,Fondamenti di sicurezza e privacy Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+72,Wed,16,1,2023/2024,Fondamenti di sicurezza e privacy Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+24,Fri,14,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+24,Fri,15,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+24,Mon,15,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+24,Mon,16,1,2023/2024,Biotecnologie delle specie da frutto,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+58,Wed,15,1,2023/2024,Ethics and law of data protection ETHICS,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+58,Wed,16,1,2023/2024,Ethics and law of data protection ETHICS,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+58,Wed,17,1,2023/2024,Ethics and law of data protection ETHICS,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],2
+3,Mon,14,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+3,Mon,15,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+3,Tue,14,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+3,Tue,15,1,2023/2024,Molecular biology,Laurea magistrale in Medical bioinformatics [769] Corsi di laurea magistrale - UNICO,Aula T.06 [Borgo Roma - Ca' Vignal 3],1
+1,Fri,10,1,2023/2024,Chimica generale ed inorganica Teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Fri,11,1,2023/2024,Chimica generale ed inorganica Teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Fri,12,1,2023/2024,Chimica generale ed inorganica Teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Mon,11,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Mon,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Mon,11,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Mon,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Tue,10,1,2023/2024,Chimica generale ed inorganica Teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Tue,11,1,2023/2024,Chimica generale ed inorganica Teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Wed,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Wed,13,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Wed,12,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+1,Wed,13,1,2023/2024,Chimica inorganica e organica,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula magna [Borgo Roma - Ca' Vignal 3],1
+78,Mon,8,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula D [Borgo Roma - Ca' Vignal 1],3
+78,Mon,9,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula D [Borgo Roma - Ca' Vignal 1],3
+78,Mon,10,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - SEGNALI E DATI,Aula D [Borgo Roma - Ca' Vignal 1],3
+78,Mon,8,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula D [Borgo Roma - Ca' Vignal 1],3
+78,Mon,9,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula D [Borgo Roma - Ca' Vignal 1],3
+78,Mon,10,1,2023/2024,Sistemi operativi Teoria,Laurea interateneo in Ingegneria dei Sistemi Medicali per la persona [1001] Corsi di laurea - DISPOSITIVI E ROBOT,Aula D [Borgo Roma - Ca' Vignal 1],3
+35,Thu,10,1,2023/2024,Programmazione I Matricole pari Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],1
+35,Thu,11,1,2023/2024,Programmazione I Matricole pari Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],1
+35,Wed,8,1,2023/2024,Programmazione I Matricole pari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+35,Wed,9,1,2023/2024,Programmazione I Matricole pari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+35,Wed,10,1,2023/2024,Programmazione I Matricole pari Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+11,Thu,11,1,2023/2024,Estrazione e integrazione di conoscenza dei dati Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula C [Borgo Roma - Ca' Vignal 1],2
+11,Thu,12,1,2023/2024,Estrazione e integrazione di conoscenza dei dati Laboratorio,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula C [Borgo Roma - Ca' Vignal 1],2
+11,Tue,11,1,2023/2024,Estrazione e integrazione di conoscenza dei dati Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula C [Borgo Roma - Ca' Vignal 1],2
+11,Tue,12,1,2023/2024,Estrazione e integrazione di conoscenza dei dati Teoria,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,Aula C [Borgo Roma - Ca' Vignal 1],2
+87,Thu,14,1,2023/2024,Microbiologia degli alimenti LABORATORIO DI MICROBIOLOGIA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],2
+87,Thu,15,1,2023/2024,Microbiologia degli alimenti LABORATORIO DI MICROBIOLOGIA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],2
+87,Thu,16,1,2023/2024,Microbiologia degli alimenti LABORATORIO DI MICROBIOLOGIA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],2
+87,Thu,17,1,2023/2024,Microbiologia degli alimenti LABORATORIO DI MICROBIOLOGIA DEGLI ALIMENTI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],2
+87,Tue,9,1,2023/2024,Microbiologia degli alimenti MICROBIOLOGIA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+87,Tue,10,1,2023/2024,Microbiologia degli alimenti MICROBIOLOGIA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+87,Wed,11,1,2023/2024,Microbiologia degli alimenti MICROBIOLOGIA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+87,Wed,12,1,2023/2024,Microbiologia degli alimenti MICROBIOLOGIA DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+87,Wed,15,1,2023/2024,"Introduzione alla microbiologia, metodologie analitiche e sicurezza LABORATORIO DI METODOLOGIE DI MICROBIOLOGIA",Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],1
+87,Wed,16,1,2023/2024,"Introduzione alla microbiologia, metodologie analitiche e sicurezza LABORATORIO DI METODOLOGIE DI MICROBIOLOGIA",Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],1
+87,Wed,17,1,2023/2024,"Introduzione alla microbiologia, metodologie analitiche e sicurezza LABORATORIO DI METODOLOGIE DI MICROBIOLOGIA",Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],1
+87,Wed,18,1,2023/2024,"Introduzione alla microbiologia, metodologie analitiche e sicurezza LABORATORIO DI METODOLOGIE DI MICROBIOLOGIA",Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Laboratorio di Microbiologia [Borgo Roma - Ca' Vignal 3],1
+21,Fri,10,1,2023/2024,Process monitoring Teoria,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+21,Fri,11,1,2023/2024,Process monitoring Teoria,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+21,Fri,12,1,2023/2024,Process monitoring Teoria,Laurea magistrale in Computer Engineering for Robotics and Smart Industry [954] Corsi di laurea magistrale - UNICO,Aula M [Borgo Roma - Ca' Vignal 2],1
+21,Fri,14,1,2023/2024,Reinforcement learning and Advanced programming for AI Advanced programming for AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],1
+21,Fri,15,1,2023/2024,Reinforcement learning and Advanced programming for AI Advanced programming for AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],1
+21,Mon,15,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+21,Mon,16,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula L [Borgo Roma - Ca' Vignal 2],"[1,2]"
+21,Tue,10,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+21,Tue,11,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+21,Wed,15,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+21,Wed,16,1,2023/2024,Machine learning for data science,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],"[1,2]"
+84,Fri,8,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Fri,9,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Fri,14,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+84,Fri,15,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+84,Mon,8,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Mon,9,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Mon,10,1,2023/2024,Microbial biotechnology,Laurea magistrale in Molecular and medical biotechnology [698] Corsi di laurea magistrale - UNICO,Aula T.02 [Borgo Roma - Ca' Vignal 3],1
+84,Mon,11,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Mon,12,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Thu,8,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Thu,9,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Tue,8,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Tue,9,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Tue,10,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Tue,11,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Wed,8,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+84,Wed,9,1,2023/2024,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA,Laurea magistrale a ciclo unico in Odontoiatria e protesi dentaria [396] Corsi di laurea magistrale a ciclo unico - UNICO,Aula 2 [Borgo Roma - Piastra Odontoiatrica],2
+70,Mon,11,1,2023/2024,Processi di trasformazione e conservazione degli alimenti PROCESSI DI TRASFORMAZIONE E CONSERVAZIONE DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+70,Mon,12,1,2023/2024,Processi di trasformazione e conservazione degli alimenti PROCESSI DI TRASFORMAZIONE E CONSERVAZIONE DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+70,Thu,11,1,2023/2024,Processi di trasformazione e conservazione degli alimenti PROCESSI DI TRASFORMAZIONE E CONSERVAZIONE DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+70,Thu,12,1,2023/2024,Processi di trasformazione e conservazione degli alimenti PROCESSI DI TRASFORMAZIONE E CONSERVAZIONE DEGLI ALIMENTI (TEORIA),Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+70,Wed,16,1,2023/2024,Processi di trasformazione e conservazione degli alimenti LABORATORIO DI PROGETTAZIONE E SVILUPPO DI PRODOTTI ALIMENTARI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+70,Wed,17,1,2023/2024,Processi di trasformazione e conservazione degli alimenti LABORATORIO DI PROGETTAZIONE E SVILUPPO DI PRODOTTI ALIMENTARI,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,Auletta Atrio CV1 [Borgo Roma - Ca' Vignal 1],2
+80,Fri,9,1,2023/2024,Nanomateriali per le biotecnologie e la chimica verde teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula F [Borgo Roma - Ca' Vignal 1],2
+80,Fri,10,1,2023/2024,Nanomateriali per le biotecnologie e la chimica verde teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula F [Borgo Roma - Ca' Vignal 1],2
+80,Tue,8,1,2023/2024,Nanomateriali per le biotecnologie e la chimica verde teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+80,Tue,9,1,2023/2024,Nanomateriali per le biotecnologie e la chimica verde teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+85,Mon,8,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+85,Mon,9,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+85,Thu,10,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+85,Thu,11,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+85,Thu,12,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+85,Thu,14,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+85,Thu,15,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],2
+85,Wed,8,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+85,Wed,9,1,2023/2024,Programmazione II e ingegneria del software PROGRAMMAZIONE II Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula A [Borgo Roma - Ca' Vignal 1],2
+85,Wed,14,1,2023/2024,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Gino Tessari [Borgo Roma - Ca' Vignal 2],1
+55,Mon,11,1,2023/2024,Probabilità e statistica Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],2
+55,Mon,12,1,2023/2024,Probabilità e statistica Laboratorio,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],2
+55,Thu,13,1,2023/2024,Elaborazione dei dati e dei segnali biomedici Modulo A Laboratorio - Elaborazione dei dati e dei segnali biomedici Modulo B Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+55,Thu,14,1,2023/2024,Elaborazione dei dati e dei segnali biomedici Modulo A Laboratorio - Elaborazione dei dati e dei segnali biomedici Modulo B Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Alfa [Borgo Roma - Ca' Vignal 2],3
+55,Tue,11,1,2023/2024,Probabilità e statistica Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+55,Tue,12,1,2023/2024,Probabilità e statistica Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+55,Tue,13,1,2023/2024,Probabilità e statistica Teoria,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,Aula T.03 [Borgo Roma - Ca' Vignal 3],2
+55,Wed,11,1,2023/2024,Elaborazione dei dati e dei segnali biomedici Modulo A Teoria - Elaborazione dei dati e dei segnali biomedici Modulo B Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+55,Wed,12,1,2023/2024,Elaborazione dei dati e dei segnali biomedici Modulo A Teoria - Elaborazione dei dati e dei segnali biomedici Modulo B Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+55,Wed,13,1,2023/2024,Elaborazione dei dati e dei segnali biomedici Modulo A Teoria - Elaborazione dei dati e dei segnali biomedici Modulo B Teoria,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula B [Borgo Roma - Ca' Vignal 1],3
+39,Wed,13,1,2023/2024,Programmazione I Matricole dispari Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],1
+39,Wed,14,1,2023/2024,Programmazione I Matricole dispari Laboratorio,Laurea in Informatica [420] Corsi di laurea - UNICO,Aula Delta [Borgo Roma - Ca' Vignal 3 - Piramide],1
+33,Tue,13,1,2023/2024,Microbiologia generale teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+33,Tue,14,1,2023/2024,Microbiologia generale teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+33,Wed,12,1,2023/2024,Microbiologia generale teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+33,Wed,13,1,2023/2024,Microbiologia generale teoria,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+25,Mon,9,1,2023/2024,Introduzione alla patologia e immunologia,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+25,Mon,10,1,2023/2024,Introduzione alla patologia e immunologia,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+25,Wed,11,1,2023/2024,Introduzione alla patologia e immunologia,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+25,Wed,12,1,2023/2024,Introduzione alla patologia e immunologia,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+82,Fri,10,1,2023/2024,Biotecnologie fitopatologiche teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+82,Fri,11,1,2023/2024,Biotecnologie fitopatologiche teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+82,Mon,13,1,2023/2024,Biotecnologie fitopatologiche teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+82,Mon,14,1,2023/2024,Biotecnologie fitopatologiche teoria,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Aula 1.01 [Borgo Roma - Ca' Vignal 3],2
+82,Thu,11,1,2023/2024,Controllo sostenibile dei fitopatogeni TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+82,Thu,12,1,2023/2024,Controllo sostenibile dei fitopatogeni TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+82,Tue,8,1,2023/2024,Biotecnologie fitopatologiche laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+82,Tue,9,1,2023/2024,Biotecnologie fitopatologiche laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+82,Tue,10,1,2023/2024,Biotecnologie fitopatologiche laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+82,Tue,11,1,2023/2024,Biotecnologie fitopatologiche laboratorio,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,Laboratorio di Biotecnologie genetiche [Borgo Roma - Ca' Vignal 3],2
+82,Tue,13,1,2023/2024,Controllo sostenibile dei fitopatogeni TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+82,Tue,14,1,2023/2024,Controllo sostenibile dei fitopatogeni TEORIA,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula T.05 [Borgo Roma - Ca' Vignal 3],2
+23,Fri,13,1,2023/2024,Biologia del differenziamento e dello sviluppo BIOLOGIA DEL DIFFERENZIAMENTO E DELLO SVILUPPO DEGLI ANIMALI,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+23,Fri,14,1,2023/2024,Biologia del differenziamento e dello sviluppo BIOLOGIA DEL DIFFERENZIAMENTO E DELLO SVILUPPO DEGLI ANIMALI,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+23,Fri,15,1,2023/2024,Biologia del differenziamento e dello sviluppo BIOLOGIA DEL DIFFERENZIAMENTO E DELLO SVILUPPO DEGLI ANIMALI,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula D [Borgo Roma - Ca' Vignal 1],2
+23,Thu,13,1,2023/2024,Organismi modello di interesse biotecnologico,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+23,Thu,14,1,2023/2024,Organismi modello di interesse biotecnologico,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+23,Tue,12,1,2023/2024,Organismi modello di interesse biotecnologico,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+23,Tue,13,1,2023/2024,Organismi modello di interesse biotecnologico,Laurea in Biotecnologie [385] Corsi di laurea - UNICO,Aula T.04 [Borgo Roma - Ca' Vignal 3],3
+42,Fri,11,1,2023/2024,Cambiamento climatico e funzionalita' del suolo Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula F [Borgo Roma - Ca' Vignal 1],2
+42,Fri,12,1,2023/2024,Cambiamento climatico e funzionalita' del suolo Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula F [Borgo Roma - Ca' Vignal 1],2
+42,Mon,9,1,2023/2024,Cambiamento climatico e funzionalita' del suolo Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+42,Mon,10,1,2023/2024,Cambiamento climatico e funzionalita' del suolo Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],2
+42,Mon,13,1,2023/2024,Agricoltura sostenibile Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+42,Mon,14,1,2023/2024,Agricoltura sostenibile Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+42,Tue,9,1,2023/2024,Agricoltura sostenibile Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+42,Tue,10,1,2023/2024,Agricoltura sostenibile Teoria,Laurea magistrale in Biotecnologie per le biorisorse e lo sviluppo ecosostenibile [907] Corsi di laurea magistrale - UNICO,Aula 1.02 [Borgo Roma - Ca' Vignal 3],1
+32,Mon,15,1,2023/2024,Logic in AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],"[1,2]"
+32,Mon,16,1,2023/2024,Logic in AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],"[1,2]"
+32,Thu,14,1,2023/2024,Logic in AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],"[1,2]"
+32,Thu,15,1,2023/2024,Logic in AI,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,Aula C [Borgo Roma - Ca' Vignal 1],"[1,2]"

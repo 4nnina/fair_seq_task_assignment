@@ -1,0 +1,89 @@
+guide_id,level,constraint,poi_id
+0,impossible,"NOT Mon",53
+0,undesired,"not Fri",
+0,impossible,"NOT (Tue, [13:00, 19:30])",53
+0,impossible,"NOT (Wed, [13:00, 19:30])",53
+0,impossible,"NOT (Thu, [13:00, 19:30])",53
+0,impossible,"NOT (Fri, [13:00, 19:30])",53
+0,impossible,"NOT (Sat, [08:00, 16:00])",53
+0,impossible,"NOT (Sun, [08:00, 16:00])",53
+0,impossible,"NOT (Mon, [08:00, 10:00])",52
+0,impossible,"NOT (Tue, [08:00, 10:00])",52
+0,impossible,"NOT (Wed, [08:00, 10:00])",52
+0,impossible,"NOT (Thu, [08:00, 10:00])",52
+0,impossible,"NOT (Fri, [08:00, 10:00])",52
+0,impossible,"NOT (Sat, [08:00, 13:00])",52
+0,impossible,"NOT (Sun, [08:00, 13:00])",52
+0,impossible,"NOT (Mon, [08:00, 13:00])",47
+1,undesired,"not Mon",
+1,undesired,"not (Tue, [08:00, 15:00])",
+1,undesired,"not (Fri, [13:00, 19:00])",
+1,undesired,"not (Sat, [13:00, 15:00])",
+1,undesired,"not (Sun, [13:00, 15:00])",
+1,impossible,"NOT (Mon, [08:00, 13:00])",71
+1,impossible,"NOT (Mon, [08:00, 13:00])",50
+2,undesired,"not (Sat, [13:00, 19:00])",
+2,undesired,"not (Sun, [13:00, 19:00])",
+2,undesired,"not (Thu, [10:00, 15:00])",
+2,impossible,"NOT (Mon, [08:00, 10:00])",59
+2,impossible,"NOT (Tue, [08:00, 10:00])",59
+2,impossible,"NOT (Wed, [08:00, 10:00])",59
+2,impossible,"NOT (Thu, [08:00, 10:00])",59
+2,impossible,"NOT (Fri, [08:00, 10:00])",59
+2,impossible,"NOT (Sat, [08:00, 11:00])",59
+2,impossible,"NOT (Sun, [08:00, 11:00])",59
+2,impossible,"NOT (Mon, [08:00, 10:00])",58
+2,impossible,"NOT (Tue, [08:00, 10:00])",58
+2,impossible,"NOT (Wed, [08:00, 10:00])",58
+2,impossible,"NOT (Thu, [08:00, 10:00])",58
+2,impossible,"NOT (Fri, [08:00, 10:00])",58
+2,impossible,"NOT (Sat, [08:00, 11:00])",58
+2,impossible,"NOT (Sun, [08:00, 11:00])",58
+3,undesired,"not (Sat, [08:00, 13:00])",
+3,undesired,"not (Sun, [08:00, 13:00])",
+3,undesired,"not (Mon, [08:00, 16:00])",
+3,impossible,"NOT (Mon, [08:00, 10:00])",63
+3,impossible,"NOT (Tue, [08:00, 10:00])",63
+3,impossible,"NOT (Wed, [08:00, 10:00])",63
+3,impossible,"NOT (Thu, [08:00, 10:00])",63
+3,impossible,"NOT (Fri, [08:00, 10:00])",63
+3,impossible,"NOT (Sat, [08:00, 12:00])",63
+3,impossible,"NOT (Sun, [08:00, 12:00])",63
+4,undesired,"not (Fri, [08:00, 12:00])",
+4,undesired,"not (Thu, [13:00, 19:00])",
+4,undesired,"not (Wed, [11:00, 15:00])",
+4,undesired,"not Sun",
+4,impossible,"NOT (Mon, [08:00, 10:00])",54
+4,impossible,"NOT (Tue, [08:00, 10:00])",54
+4,impossible,"NOT (Wed, [08:00, 10:00])",54
+4,impossible,"NOT (Thu, [08:00, 10:00])",54
+4,impossible,"NOT (Fri, [08:00, 10:00])",54
+4,impossible,"NOT (Sat, [08:00, 13:00])",54
+4,impossible,"NOT (Sun, [08:00, 13:00])",54
+5,undesired,"not (Sun, [08:00, 12:00])",
+5,undesired,"not (Mon, [13:00, 19:00])",
+5,undesired,"not (Thu, [15:00, 19:00])",
+5,undesired,"not (Fri, [15:00, 19:00])",
+5,impossible,"NOT Mon",49
+5,impossible,"NOT Mon",76
+6,undesired,"not (Fri, [10:00, 12:00])",
+6,undesired,"not (Tue, [10:00, 16:00])",
+6,undesired,"not (Mon, [10:00, 16:00])",
+6,impossible,"NOT (Mon, [08:00, 10:00])",62
+6,impossible,"NOT (Tue, [08:00, 10:00])",62
+6,impossible,"NOT (Wed, [08:00, 10:00])",62
+6,impossible,"NOT (Thu, [08:00, 10:00])",62
+6,impossible,"NOT (Fri, [08:00, 10:00])",62
+6,impossible,"NOT (Sat, [08:00, 12:00])",62
+6,impossible,"NOT (Sun, [08:00, 12:00])",62
+6,impossible,"NOT (Mon, [08:00, 10:00])",61
+6,impossible,"NOT (Tue, [08:00, 10:00])",61
+6,impossible,"NOT (Wed, [08:00, 10:00])",61
+6,impossible,"NOT (Thu, [08:00, 10:00])",61
+6,impossible,"NOT (Fri, [08:00, 10:00])",61
+6,impossible,"NOT (Sat, [08:00, 11:00])",61
+6,impossible,"NOT (Sun, [08:00, 11:00])",61
+7,impossible,"NOT Mon",55
+7,undesired,"not (Thu, [10:00, 12:00])",
+7,undesired,"not (Fri, [10:00, 16:00])",
+7,undesired,"not Wed",

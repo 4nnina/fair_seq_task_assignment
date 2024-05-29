@@ -1,1 +1,1 @@
-# fair_sequential_task_assignmen
+# Fairness in Sequential Task Assignment: what is the role of the point of view?

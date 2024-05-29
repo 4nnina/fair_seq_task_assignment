@@ -1,0 +1,67 @@
+tour_id,name_tour,pos_tour,poi_id,poi_name,time_visit
+1,Verona medievale,1,50,Castelvecchio,60
+1,Verona medievale,2,51,Chiesa di San Lorenzo,60
+1,Verona medievale,3,44,Porta Borsari,60
+1,Verona medievale,4,52,complesso del Duomo,30
+1,Verona medievale,5,53,Biblioteca Capitolare,60
+1,Verona medievale,6,54,Basilica di Santa Anastasia,30
+1,Verona medievale,7,55,Arche Scaligere,60
+1,Verona medievale,8,56,Piazza dei Signori o Piazza Dante,60
+1,Verona medievale,9,57,Palazzo del Capitanio o del Tribunale,60
+1,Verona medievale,10,58,Palazzo della Ragione o del Comune,60
+1,Verona medievale,11,59,Torre dei Lamberti,45
+1,Verona medievale,12,60,Piazza Erbe,60
+1,Verona medievale,13,61,Casa di Giulietta,30
+1,Verona medievale,14,62,Chiesa di San Fermo,25
+1,Verona medievale,15,63,Basilica di San Zeno,30
+2,Verona rinascimentale,1,63,Basilica di San Zeno,30
+2,Verona rinascimentale,2,70,Chiesa di San Bernardino,60
+2,Verona rinascimentale,3,71,Museo di Castelvecchio,90
+2,Verona rinascimentale,4,44,Porta Borsari,60
+2,Verona rinascimentale,5,60,Piazza Erbe,60
+2,Verona rinascimentale,6,56,Piazza dei Signori o Piazza Dante,60
+2,Verona rinascimentale,7,72,Loggia del Consiglio,60
+2,Verona rinascimentale,8,52,complesso del Duomo,30
+2,Verona rinascimentale,9,46,Ponte Pietra,60
+2,Verona rinascimentale,10,73,Chiesa di San Giorgio in Braida,60
+2,Verona rinascimentale,11,74,Chiesa di Santa Maria in Organo,60
+2,Verona rinascimentale,12,75,Giardino Giusti,60
+3,Verona romana,1,43,Arco dei Gavi,60
+3,Verona romana,2,44,Porta Borsari,60
+3,Verona romana,3,45,Sito archeologico degli scavi Scaligeri,60
+3,Verona romana,4,46,Ponte Pietra,60
+3,Verona romana,5,47,Teatro Romano,60
+3,Verona romana,6,48,Porta Leoni,60
+3,Verona romana,7,49,Anfiteatro Arena,70
+11,Mezza giornata,1,49,Anfiteatro Arena,70
+11,Mezza giornata,2,77,Piazza Bra,60
+11,Mezza giornata,3,61,Casa di Giulietta,30
+11,Mezza giornata,4,60,Piazza Erbe,60
+11,Mezza giornata,5,56,Piazza dei Signori o Piazza Dante,30
+11,Mezza giornata,6,72,Loggia del Consiglio,30
+11,Mezza giornata,7,78,Palazzo del Governo e della Prefettura,60
+11,Mezza giornata,8,57,Palazzo del Capitanio o del Tribunale,60
+11,Mezza giornata,9,55,Arche Scaligere,60
+11,Mezza giornata,10,54,Basilica di Santa Anastasia,30
+11,Mezza giornata,11,44,Porta Borsari,60
+11,Mezza giornata,12,43,Arco dei Gavi,60
+11,Mezza giornata,13,50,Castelvecchio,60
+10,Una giornata,1,76,Museo Lapidario Maffeiano,40
+10,Una giornata,2,77,Piazza Bra,60
+10,Una giornata,3,49,Anfiteatro Arena,70
+10,Una giornata,4,62,Chiesa di San Fermo,25
+10,Una giornata,5,48,Porta Leoni,60
+10,Una giornata,6,61,Casa di Giulietta,30
+10,Una giornata,7,60,Piazza Erbe,60
+10,Una giornata,8,56,Piazza dei Signori o Piazza Dante,60
+10,Una giornata,9,72,Loggia del Consiglio,60
+10,Una giornata,10,78,Palazzo del Governo e della Prefettura,60
+10,Una giornata,11,79,Chiesa di Santa Maria Antica,60
+10,Una giornata,12,55,Arche Scaligere,60
+10,Una giornata,13,54,Basilica di Santa Anastasia,30
+10,Una giornata,14,46,Ponte Pietra,60
+10,Una giornata,15,47,Teatro Romano,60
+10,Una giornata,16,52,complesso del Duomo,30
+10,Una giornata,17,44,Porta Borsari,60
+10,Una giornata,18,50,Castelvecchio,60
+10,Una giornata,19,63,Basilica di San Zeno,30

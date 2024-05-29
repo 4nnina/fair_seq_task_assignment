@@ -1,0 +1,155 @@
+module_id,module_name
+0,Acquisizione e analisi di immagini biomediche PARTE II
+1,Agricoltura sostenibile Teoria
+2,Algebra lineare
+3,Algebra lineare con elementi di geometria ALGEBRA LINEARE
+4,Analisi II: applicazioni e metodi matematici ANALISI MATEMATICA II
+5,Analisi matematica I
+6,Analisi matematica II
+7,Analisi matematica Matricole dispari
+8,Architettura degli elaboratori Matricole dispari Teoria base
+9,Architettura degli elaboratori Matricole pari Teoria base
+10,Basi di dati Teoria
+11,Big data
+12,Biologia del differenziamento e dello sviluppo BIOLOGIA DEL DIFFERENZIAMENTO E DELLO SVILUPPO DEGLI ANIMALI
+13,Biologia generale e cellulare BIOLOGIA GENERALE E CELLULARE: I
+14,Biologia sintetica della produttività vegetale Laboratorio
+15,Biologia sintetica della produttività vegetale Teoria
+16,Biomedicine and bioinformatics databases Fundamentals of database systems Lab.
+17,Biomedicine and bioinformatics databases Fundamentals of database systems Teoria
+18,Biotecnologie delle specie da frutto
+19,Biotecnologie fitopatologiche laboratorio
+20,Biotecnologie fitopatologiche teoria
+21,Calcolo numerico II con laboratorio
+22,Cambiamento climatico e funzionalita' del suolo Teoria
+23,Cell signaling in health and disease Laboratorio 1° turno - Cell signaling in health and disease Laboratorio 2° turno - Cell signaling in health and disease Laboratorio 3� turno
+24,Chimica analitica applicata agli alimenti CHIMICA ANALITICA APPLICATA AGLI ALIMENTI (TEORIA)
+25,Chimica analitica applicata agli alimenti LABORATORIO DI CHIMICA ANALITICA APPLICATA AGLI ALIMENTI
+26,Chimica degli alimenti CHIMICA DEGLI ALIMENTI (TEORIA)
+27,Chimica degli alimenti LABORATORIO DI CHIMICA DEGLI ALIMENTI
+28,Chimica generale ed inorganica Teoria
+29,Chimica inorganica e organica
+30,Clinical molecular biology
+31,Clinical proteomics laboratorio 1° turno
+32,Clinical proteomics laboratorio 2° turno
+33,Clinical proteomics teoria
+34,Comparative and transnational law e technology
+35,Computational algebra
+36,Computational analysis of genome-scale sequences
+37,Computational epistemology and philosophy
+38,Controlli automatici
+39,Controllo sostenibile dei fitopatogeni TEORIA
+40,Difesa e sostenibilità dei sistemi produttivi alimentari DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI (TEORIA) Teoria 1
+41,Difesa e sostenibilità dei sistemi produttivi alimentari LABORATORIO DI DIFESA E SOSTENIBILITÀ DEI SISTEMI PRODUTTIVI ALIMENTARI Laboratorio 2
+42,Digital transformation and IT change
+43,Ecologia applicata
+44,Ecologia per le biorisorse Teoria
+45,Elaborazione dei dati e dei segnali biomedici Modulo A Laboratorio - Elaborazione dei dati e dei segnali biomedici Modulo B Laboratorio
+46,Elaborazione dei dati e dei segnali biomedici Modulo A Teoria - Elaborazione dei dati e dei segnali biomedici Modulo B Teoria
+47,Elaborazione di segnali e immagini Laboratorio
+48,Elementi di fisica
+49,Elettromagnetismo e ottica
+50,Embedded e IoT systems design Embedded and IoT Systems
+51,Embedded e IoT systems design Industrial IoT and Cyber-Physical Production Systems
+52,Enzimologia industriale LABORATORIO
+53,Enzimologia industriale TEORIA
+54,Epidemiological methods and biostatistics
+55,Estrazione e integrazione di conoscenza dei dati Laboratorio
+56,Estrazione e integrazione di conoscenza dei dati Teoria
+57,Ethics and law of data protection ETHICS
+58,Ethics and law of data protection LAW Parte 2
+59,Fisica-statistica medica FONDAMENTI DI FISICA
+60,Fondamenti dell'informatica
+61,Fondamenti di analisi e verifica del software
+62,Fondamenti di ingegneria del software Laboratorio
+63,Fondamenti di ingegneria del software Teoria
+64,Fondamenti di linguaggi di programmazione e specifica Teoria
+65,Fondamenti di sicurezza e privacy Laboratorio
+66,Fondamenti di sicurezza e privacy Teoria
+67,Foundations of data analysis
+68,Functional analysis
+69,Functional proteomics
+70,Fundamental algorithms for bioinformatics Algorithm design
+71,Genetica
+72,Genetica e miglioramento di colture industriali no food
+73,Healthcare information systems
+74,Human genome sequencing and interpretation Laboratorio 1° turno - Human genome sequencing and interpretation Laboratorio 2° turno - Human genome sequencing and interpretation Laboratorio 3� turno
+75,Human genome sequencing and interpretation Teoria
+76,Human genomics and epigenomics
+77,Introduzione alla microbiologia, metodologie analitiche e sicurezza LABORATORIO DI METODOLOGIE DI MICROBIOLOGIA
+78,Introduzione alla patologia e immunologia
+79,Laboratorio di bioinformatica Mod.1 Laboratorio
+80,Laboratorio di bioinformatica Mod.1 Teoria
+81,Logic in AI
+82,Logica Matricole dispari
+83,Logica Matricole pari
+84,Logistics, operations e supply chain
+85,Machine learning for biological structures and networks Laboratorio
+86,Machine learning for biological structures and networks Teoria
+87,Machine learning for data science
+88,Marketing research for agrifood and natural resources
+89,Matematica e statistica
+90,Matematica finanziaria
+91,Mathematical modelling in the applied sciences (seminar course)
+92,Methods in representation theory (seminar course)
+93,Metodi informazionali
+94,Metodi matematici e statistici in biologia
+95,Metodi numerici per le equazioni differenziali
+96,Metodi quantitativi per le biotecnologie
+97,Metodologie biomolecolari e genetiche teoria
+98,Microbial biotechnology
+99,Microbiologia degli alimenti LABORATORIO DI MICROBIOLOGIA DEGLI ALIMENTI
+100,Microbiologia degli alimenti MICROBIOLOGIA DEGLI ALIMENTI (TEORIA)
+101,Microbiologia ed igiene MICROBIOLOGIA E M. CLINICA
+102,Microbiologia generale teoria
+103,Molecular biology
+104,Molecular oncology
+105,Molecular pharmacology
+106,Multi-omics single-cell analysis
+107,Nanomateriali per le biotecnologie e la chimica verde teoria
+108,Natural computing
+109,Optimization
+110,Organismi modello di interesse biotecnologico
+111,Physical human-robot interaction
+112,Planning and Automated Reasoning AUTOMATED REASONING
+113,Planning and Automated Reasoning PLANNING
+114,Probability for data science
+115,Probabilità e statistica Laboratorio
+116,Probabilità e statistica Teoria
+117,Process monitoring Teoria
+118,Processi di trasformazione e conservazione degli alimenti LABORATORIO DI PROGETTAZIONE E SVILUPPO DI PRODOTTI ALIMENTARI
+119,Processi di trasformazione e conservazione degli alimenti PROCESSI DI TRASFORMAZIONE E CONSERVAZIONE DEGLI ALIMENTI (TEORIA)
+120,Processi di trasformazione e conservazione degli alimenti teoria
+121,Programmazione I Matricole dispari Laboratorio
+122,Programmazione I Matricole dispari Teoria
+123,Programmazione I Matricole pari Laboratorio
+124,Programmazione I Matricole pari Teoria
+125,Programmazione II e ingegneria del software PROGRAMMAZIONE II Laboratorio
+126,Programmazione II e ingegneria del software PROGRAMMAZIONE II Teoria
+127,Programmazione PROGRAMMAZIONE PER BIOINFORMATICA
+128,Programming and database Programming
+129,Programming for bioinformatics Laboratorio
+130,Programming for bioinformatics Teoria
+131,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Laboratorio
+132,Recupero di dati ed elaborazione di segnali e immagini per bioinformatica RICONOSCIMENTO E RECUPERO DELL'INFORMAZIONE PER BIOINFORMATICA Teoria
+133,Reinforcement learning and Advanced programming for AI Advanced programming for AI
+134,Reinforcement learning and Advanced programming for AI Reinforcement Learning
+135,Reti di calcolatori
+136,Robotics
+137,Scienze omiche MODULO I Metabolomica teoria - Scienze omiche MODULO I Trascrittomica teoria - Scienze omiche MODULO II Proteomica teoria
+138,Scienze omiche MODULO II Proteomica laboratorio
+139,Sintesi di molecole bioattive TEORIA
+140,Sistemi informativi aziendali
+141,Sistemi operativi Teoria
+142,Sistemi stocastici
+143,Software security Laboratorio
+144,Software security Teoria
+145,Supramolecular chemistry of biological systems
+146,Sviluppo di sistemi software orientato ai dati BASI DI DATI PER BIOINFORMATICA
+147,Systems verification e testing
+148,Tecniche analitiche di chimica clinica laboratorio
+149,Tecniche analitiche di chimica clinica teoria
+150,Tecnologie molecolari applicate ai vegetali laboratorio
+151,Tecnologie molecolari applicate ai vegetali teoria
+152,Toxicology and applied pharmacology
+153,Verifica automatica di sistemi
