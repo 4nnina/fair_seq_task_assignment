@@ -5,12 +5,12 @@ import random
 from tabulate import tabulate
 import re
 
-dataset_timeslot_file = './dataset/university/lecture_timeslots.csv'
-data_prof_cons_file = './dataset/university/constraint_professors.csv'
-dataset_guide_file = './dataset/tourism/guide.csv'
-dataset_tour_file = './dataset/tourism/final_data/tours.csv'
-dataset_cons_guide_file = './dataset/tourism/constraint_guide.csv'
-dataset_poi_distance_file = './dataset/tourism/distance_poi.csv'
+dataset_timeslot_file = '../dataset/university/lecture_timeslots.csv'
+data_prof_cons_file = '../dataset/university/constraint_professors.csv'
+dataset_guide_file = '../dataset/tourism/guide.csv'
+dataset_tour_file = '../dataset/tourism/final_data/tours.csv'
+dataset_cons_guide_file = '../dataset/tourism/constraint_guide.csv'
+dataset_poi_distance_file = '../dataset/tourism/distance_poi.csv'
 inf_dist = 10000
 
 class Timeline():
