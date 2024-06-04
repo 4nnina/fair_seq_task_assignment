@@ -118,7 +118,7 @@ class Timeline():
 
 
 class TimelineUniversity(Timeline):
-
+    # each task has the following format: MODULE_IDbyPROF_ID-N_HOURS (e.g. 82by112-3)
     def __init__(self):
         super().__init__()
         self.days = 5   #redifined the number of working days (Mon, Tue, Wed, Thu, Fri)
