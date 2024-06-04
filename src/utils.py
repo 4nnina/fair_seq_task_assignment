@@ -12,8 +12,8 @@ def energy_(perturbate_solution, paretoFront):
             energy += 1
     return energy
 
-def energy(perturbate_solution, paretoSet): #probabilmente da vedere se ha senso togliere la divisione visto prof/stud --> rivedere tutto
-    return energy_(perturbate_solution, paretoSet)
+# def energy(perturbate_solution, paretoSet):
+#     return energy_(perturbate_solution, paretoSet)
 
 def energyDifference(current_solution, perturbated_solution, paretoSet):
     pSet = copy.deepcopy(paretoSet)
@@ -106,14 +106,14 @@ def swap(timeline):
                 continue
 
     #remove item1
-    timeline.remove_item(item_1, day_1, hour_1, lenght_slot_1) # TODO: remove_item(timeline, item_1, day_1, hour_1, lenght_slot_1)
+    timeline.remove_item(item_1, day_1, hour_1, lenght_slot_1)
     #remove item2
-    timeline.remove_item(item_2, day_2, hour_2, lenght_slot_2) # TODO: remove_item(timeline, item_2, day_2, hour_2, lenght_slot_2)
+    timeline.remove_item(item_2, day_2, hour_2, lenght_slot_2)
 
     #add item1 in the new position (ex item2)
-    timeline.add_item(item_1, day_2, hour_2, lenght_slot_1) # TODO: add_item(timeline, item_1, day_2, hour_2, lenght_slot_1)
+    timeline.add_item(item_1, day_2, hour_2, lenght_slot_1)
     #add item2 in the new position (ex item1)
-    timeline.add_item(item_2, day_1, hour_1, lenght_slot_2) # TODO: add_item(timeline, item_2, day_1, hour_1, lenght_slot_2)
+    timeline.add_item(item_2, day_1, hour_1, lenght_slot_2)
 
 #move an item in a random (or not) position
 def move(timeline, random_slot = True, day_choose = None, hour_choose = None):
@@ -124,7 +124,7 @@ def move(timeline, random_slot = True, day_choose = None, hour_choose = None):
 
     #move to a new time slot, if there is no empty slot the lecture is moved in the last valid random slot
     empty_slot = False
-    explored_slots = np.array([[False for _ in range(timeline.hours)] for _ in range(timeline.days)]) #ATTENTION: done different
+    explored_slots = np.array([[False for _ in range(timeline.hours)] for _ in range(timeline.days)])
     while not empty_slot and not np.all(explored_slots):
         day_new = random.randrange(timeline.days)
         hour_new = random.randrange(timeline.hours)
@@ -149,9 +149,9 @@ def move(timeline, random_slot = True, day_choose = None, hour_choose = None):
             empty_slot = True
 
     #remove the item from the old position
-    timeline.remove_item(item_choose, day_choose, hour_choose, lenght_slot) # TODO: remove_item(timeline, item_choose, day_choose, hour_choose, lenght_slot)
+    timeline.remove_item(item_choose, day_choose, hour_choose, lenght_slot)
     #add the item in the new position
-    timeline.add_item(item_choose, day_new, hour_new, lenght_slot) # TODO: add_item(timeline, item_choose, day_new, hour_new, lenght_slot)
+    timeline.add_item(item_choose, day_new, hour_new, lenght_slot)
 
 #switch two days of the timeline
 def switch_days(timeline, day_1, day_2):
@@ -276,15 +276,15 @@ def perturbate_with_heu(solution_obj):
             else:
                 #YES
                 #check if there is a day without lunch break
-                if perturbated_solution.has_lunch_break():
-                    #YES
+                if not perturbated_solution.has_lunch_break():
+                    #NO, add a lunch break
                     list_days = perturbated_solution.find_day_without_lunch_break()
                     day = list_days[random.randrange(len(list_days))]
                     hour = 4 #lunch break span on 3 hours, minimun lesson lenght of 2 hours, so we can take the "middle" slot
                     move(perturbated_solution, False, day, hour)
                     #return perturbated_solution DECOMMENT TO SOLVE IN ORDER AND ONE AT TIME
                 else:
-                    #NO
+                    #YES, lunch break every day
                     #check if there are gap during the day
                     list_gaps_in_day = perturbated_solution.num_gaps_in_days()
                     if len(list_gaps_in_day) > 0:
@@ -390,7 +390,7 @@ def perturbate_with_heu(solution_obj):
                     day = day_lecture[index]
                     list_free_days = [x for x in range(perturbated_solution.days) if x not in day_lecture]
                     day_free = list_free_days[random.randrange(len(list_free_days))]
-                    #TODO: switch dell'intero pacco
+                    
                     switch_days(perturbated_solution, day, day_free)
                     modified = True
                     #perturbated_solution.compute_distance()
@@ -404,8 +404,6 @@ def perturbate_with_heu(solution_obj):
         else:
             raise Exception("Invalid solution object")
 
-    
-    
 
 #updating the object paretoSet
 def updateParetoSet(perturbated_solution, paretoSet):
@@ -441,7 +439,6 @@ def performSa(curr_sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbatio
                 perturb_sol = perturbate_with_heu(curr_sol)
             else:
                 perturb_sol = perturbate(curr_sol)
-
         
             if perturb_sol == curr_sol:
                 continue

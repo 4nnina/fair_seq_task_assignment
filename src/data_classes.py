@@ -8,7 +8,7 @@ import re
 dataset_timeslot_file = '../dataset/university/lecture_timeslots.csv'
 data_prof_cons_file = '../dataset/university/constraint_professors.csv'
 dataset_guide_file = '../dataset/tourism/guide.csv'
-dataset_tour_file = '../dataset/tourism/final_data/tours.csv'
+dataset_tour_file = '../dataset/tourism/tours.csv'
 dataset_cons_guide_file = '../dataset/tourism/constraint_guide.csv'
 dataset_poi_distance_file = '../dataset/tourism/distance_poi.csv'
 inf_dist = 10000
@@ -45,6 +45,7 @@ class Timeline():
     def dominate(self, other) -> bool:
         return self.fairness_score() > other.fairness_score()
     
+    #True if not multiple task in the same timeslot, False otherwise
     def has_overlaps(self) -> bool:
         for day in range(self.days):
             for hour in range(self.hours):
@@ -53,6 +54,7 @@ class Timeline():
                         return True
         return False
     
+    # find two tasks in the same slot
     def find_overlaps(self) -> list:
         overlaps = []
         for day in range(self.days):
@@ -62,6 +64,7 @@ class Timeline():
                         overlaps.append((day, hour))
         return overlaps
     
+
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()
     
@@ -113,28 +116,12 @@ class Timeline():
             else:
                 self.timeline[day][slot] += '+' + item
 
-    def get_filtered_timeline(self, list_lectures, prof):
-        #TODO: serve?
-        return 
-    
-    def get_filtered_timeline_real(self, prof):
-        #TODO: serve?
-        return 
-    
-    def filter_by_courses(self, list_courses):
-        #TODO: serve?
-        return 
-    
-    def get_set_modules(self):
-        #TODO: serve?
-        return 
-
 
 class TimelineUniversity(Timeline):
 
     def __init__(self):
         super().__init__()
-        self.days = 5
+        self.days = 5   #redifined the number of working days (Mon, Tue, Wed, Thu, Fri)
         self.timeline = [[None for _ in range(self.hours)] for _ in range(self.days)]
 
 
@@ -146,7 +133,7 @@ class TimelineProfessors(TimelineUniversity):
         self.constraints = [[None for _ in range(self.hours)] for _ in range(self.days)]
         self.comment = []
 
-        df = pd.read_csv(dataset_timeslot_file)#pd.read_csv('../'+dataset_timeslot_file)
+        df = pd.read_csv(dataset_timeslot_file)
         df = df[df['prof_id'] == prof_id]
         df = df[['module_id','n_hours','prof_id']]
         df.drop_duplicates(inplace=True)
@@ -173,7 +160,7 @@ class TimelineProfessors(TimelineUniversity):
         undesired = -0.5
         preference = -0.25
 
-        df_cons = pd.read_csv(data_prof_cons_file)#pd.read_csv('../'+data_prof_cons_file)
+        df_cons = pd.read_csv(data_prof_cons_file)
         df_cons = df_cons[df_cons['prof_id'] == prof_id]
         df_cons = df_cons[['constraint','level']]
 
@@ -255,7 +242,7 @@ class TimelineProfessors(TimelineUniversity):
                 elif cons_part[0] == 'Two_cons_days':
                     self.comment.append(' '.join(cons_part))
                 elif cons_part[0] == 'Commuter' or cons_part[0] == 'online'  or cons_part[0] == '(OK':
-                    continue            #TODO: actualy it doesn't make any difference
+                    continue            #TODO: actually it doesn't make any difference
                 else:
                     print(cons_part)
                     raise ValueError('Constraint undefined not recognized')
@@ -542,6 +529,7 @@ class TimelineStudents(TimelineUniversity):
     
 
 class TimelineTourism(Timeline):
+    # each task has the following format: TOUR_ID-POI_ID*TIME_VISITbyGUIDE_ID
     def __init__(self):
         super().__init__()
         self.distance = 0
@@ -586,6 +574,7 @@ class TimelineTourism(Timeline):
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()
     
+    #remove the walking distance from the timeline
     def clear_distance(self):
         if not self.has_overlaps():
             df_tour = pd.read_csv(dataset_tour_file)
@@ -618,6 +607,7 @@ class TimelineTourism(Timeline):
                             self.add_item(clear_item, day, hour, int(np.ceil(real_time_visit/60))) 
 
 
+    # add the walking distance between two POIs
     def compute_distance(self):
         #The timeline has overlaps?
         if self.has_overlaps():
