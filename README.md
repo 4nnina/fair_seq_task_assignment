@@ -1,4 +1,4 @@
-# Fairness in Sequential Task Assignment: what is the role of the point of view?
+# Multi-sided Fairness in Sequential Task Assignment
 
 ## Running the code
 
