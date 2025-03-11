@@ -3,14 +3,23 @@ import pandas as pd
 import numpy as np
 import random
 from tabulate import tabulate
-import re
 
-dataset_timeslot_file = '../dataset/university/lecture_timeslots.csv'
-data_prof_cons_file = '../dataset/university/constraint_professors.csv'
-dataset_guide_file = '../dataset/tourism/guide.csv'
-dataset_tour_file = '../dataset/tourism/tours.csv'
-dataset_cons_guide_file = '../dataset/tourism/constraint_guide.csv'
-dataset_poi_distance_file = '../dataset/tourism/distance_poi.csv'
+import sys
+import os
+sys.path.append(os.path.abspath(".."))
+
+
+current_dir = os.getcwd()
+src_dir = os.path.dirname(current_dir)
+parent_dir = os.path.dirname(src_dir)   
+dataset_path = os.path.join(parent_dir, 'dataset')
+
+dataset_timeslot_file = os.path.join(dataset_path,'university/lecture_timeslots.csv')
+data_prof_cons_file = os.path.join(dataset_path,'university/constraint_professors.csv')
+dataset_guide_file = os.path.join(dataset_path,'tourism/guide.csv')
+dataset_tour_file = os.path.join(dataset_path,'tourism/tours.csv')
+dataset_cons_guide_file = os.path.join(dataset_path,'tourism/constraint_guide.csv')
+dataset_poi_distance_file = os.path.join(dataset_path,'tourism/distance_poi.csv')
 inf_dist = 10000
 
 class Timeline():
@@ -33,6 +42,34 @@ class Timeline():
         pretty_print = [[days[i]] + print_days[i] for i in range(self.days)]
         return tabulate(pretty_print, headers=['   '] + [str(i+8) + ' - ' + str(i+9) for i in range(self.hours)]) + '\n'
     
+    def save_as_csv(self, name):
+        df = pd.DataFrame(self.timeline, columns=[str(i+8) + ' - ' + str(i+9) for i in range(self.hours)])
+
+        df.index = ['mon', 'tue', 'wed', 'thu', 'fri']
+
+        list_info = [[None,None]]
+
+        if isinstance(self, TimelineStudents):
+            gap = self.obj_fun_gap()
+            gaps_in_week = self.obj_fun_gaps_in_week()
+            lunch = self.obj_fun_lunch()
+            num_days = self.obj_fun_num_days()
+            early = self.obj_fun_early()
+            late = self.obj_fun_late()
+            
+            list_info.append(['gap:',gap])
+            list_info.append(['gaps_in_week:',gaps_in_week])
+            list_info.append(['lunch:',lunch])
+            list_info.append(['num_days:',num_days])
+            list_info.append(['early:',early])
+            list_info.append(['late:',late])
+
+        list_info.append(['fairness_score', self.fairness_score()])
+
+        df = pd.concat([df, pd.DataFrame(list_info, columns=[str(i+8) + ' - ' + str(i+9) for i in range(2)])])
+
+        df.to_csv(f'{name}.csv')
+
     def __eq__(self, other) -> bool:
         return type(self) == type(other) and self.timeline == other.timeline
     
@@ -45,7 +82,6 @@ class Timeline():
     def dominate(self, other) -> bool:
         return self.fairness_score() > other.fairness_score()
     
-    #True if not multiple task in the same timeslot, False otherwise
     def has_overlaps(self) -> bool:
         for day in range(self.days):
             for hour in range(self.hours):
@@ -54,7 +90,6 @@ class Timeline():
                         return True
         return False
     
-    # find two tasks in the same slot
     def find_overlaps(self) -> list:
         overlaps = []
         for day in range(self.days):
@@ -64,7 +99,6 @@ class Timeline():
                         overlaps.append((day, hour))
         return overlaps
     
-
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()
     
@@ -110,20 +144,59 @@ class Timeline():
 
     #add an item in a timeslot
     def add_item(self, item, day, hour, lenght_slot):
-        for slot in range(hour, hour + lenght_slot):
+        max_hour = min(hour + lenght_slot, self.hours)
+        for slot in range(hour, max_hour):
             if self.timeline[day][slot] is None:
                 self.timeline[day][slot] = item
             else:
                 self.timeline[day][slot] += '+' + item
 
+    def find_item(self, item):
+        for day in range(self.days):
+            for hour in range(self.hours):
+                if self.timeline[day][hour] is not None:
+                    slot_item = self.timeline[day][hour].split('+')
+                    if item in slot_item:
+                        return (day, hour)
+
 
 class TimelineUniversity(Timeline):
-    # each task has the following format: MODULE_IDbyPROF_ID-N_HOURS (e.g. 82by112-3)
+
     def __init__(self):
         super().__init__()
-        self.days = 5   #redifined the number of working days (Mon, Tue, Wed, Thu, Fri)
+        self.days = 5
         self.timeline = [[None for _ in range(self.hours)] for _ in range(self.days)]
 
+    def get_prof(self, item, day, hour):
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(i.split('by')[-1].split('-')[0])
+            else:
+                return int(self.timeline[day][hour].split('by')[-1].split('-')[0])
+            
+        return None
+    
+    def get_module(self, item, day, hour):
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(self.timeline[day][hour].split('by')[0])
+            else:
+                return int(self.timeline[day][hour].split('by')[0])
+        return None
+    
+    def get_hours(self, item, day, hour):
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(self.timeline[day][hour].split('-')[-1])
+            else:
+                return int(self.timeline[day][hour].split('-')[-1])
+        return None
 
 
 class TimelineProfessors(TimelineUniversity):
@@ -133,7 +206,7 @@ class TimelineProfessors(TimelineUniversity):
         self.constraints = [[None for _ in range(self.hours)] for _ in range(self.days)]
         self.comment = []
 
-        df = pd.read_csv(dataset_timeslot_file)
+        df = pd.read_csv(dataset_timeslot_file)#pd.read_csv('../'+dataset_timeslot_file)
         df = df[df['prof_id'] == prof_id]
         df = df[['module_id','n_hours','prof_id']]
         df.drop_duplicates(inplace=True)
@@ -242,7 +315,7 @@ class TimelineProfessors(TimelineUniversity):
                 elif cons_part[0] == 'Two_cons_days':
                     self.comment.append(' '.join(cons_part))
                 elif cons_part[0] == 'Commuter' or cons_part[0] == 'online'  or cons_part[0] == '(OK':
-                    continue            #TODO: actually it doesn't make any difference
+                    continue            #TODO: actualy it doesn't make any difference
                 else:
                     print(cons_part)
                     raise ValueError('Constraint undefined not recognized')
@@ -259,9 +332,26 @@ class TimelineProfessors(TimelineUniversity):
                 out += '\n' + str(c)
             out += '\n'
         return out
+    
+    def sum_contraints(self):
+        sum = 0
+        for day in range(self.days):
+            for hour in range(self.hours):
+                if self.constraints[day][hour] is not None:
+                    sum += self.constraints[day][hour]
+
+        if sum == 0:
+            return 1
+        return sum
 
     def __str__(self):
-        return f'PROFESSOR {self.name}\n' + super().__str__() + self.print_constraints()
+        return f'\n*****\tPROFESSOR {self.name}\t*****\n' + super().__str__() + self.print_constraints()
+    
+    def __eq__(self, other) -> bool:
+        return super().__eq__(other) and self.name == other.name
+    
+    def __hash__(self):
+        return super().__hash__() + hash(self.name)
         
     def satisfied_impossible_constraints(self) -> bool:
         for day in range(self.days):
@@ -295,8 +385,6 @@ class TimelineProfessors(TimelineUniversity):
         score = 0
         if not self.satisfied_mandatory():
             score += -1000 * len(super().find_overlaps())
-            if not self.satisfied_impossible_constraints():
-                score += -501 * len(self.get_unsatisfied_impossible_constraints())
 
         for day in range(self.days):
             for hour in range(self.hours):
@@ -315,7 +403,20 @@ class TimelineProfessors(TimelineUniversity):
                     elif len(lectures) == 2 and abs(lectures[0] - lectures[1]) > 1:
                         score += (-0.25)
                 else:
+                    continue
                     raise Warning('Comment not recognized')
+
+        return score
+    
+    def real_fairness_score(self) -> float:
+        if len(self.find_overlaps())>0:
+            return self.sum_contraints()
+        
+        score = 0
+        for day in range(self.days):
+            for hour in range(self.hours):
+                if self.constraints[day][hour] is not None and self.timeline[day][hour] is not None:
+                    score += self.constraints[day][hour]
 
         return score
     
@@ -324,7 +425,7 @@ class TimelineProfessors(TimelineUniversity):
             return True
         else:
             return False
-    
+
 
 class TimelineStudents(TimelineUniversity):
     def __is_in_degree_year(self, year, degree_year):
@@ -361,8 +462,14 @@ class TimelineStudents(TimelineUniversity):
                                                 + str(df.iloc[lecture_idx]['module_id']) + 'by' + str(df.iloc[lecture_idx]['prof_id']) + '-' + str(df.iloc[lecture_idx]['n_hours'])
 
     def __str__(self):
-        return f'DEGREE: {self.degree}\tYEAR: {self.year}\n' + super().__str__()
-
+        return f'\n*****\tDEGREE: {self.degree}\tYEAR: {self.year}\t*****\n' + super().__str__()
+    
+    def __eq__(self, other) -> bool:
+        return super().__eq__(other) and self.degree == other.degree and self.year == other.year
+    
+    def __hash__(self):
+        return super().__hash__() + hash(self.degree) + hash(self.year)
+    
     def obj_fun_gap(self) -> float:
         gap_h = 0
         total_h = 0
@@ -484,7 +591,7 @@ class TimelineStudents(TimelineUniversity):
         if self.obj_fun_late() > other.obj_fun_late():
             return False
         
-        if self.fairness_score() < other.fairness_score():
+        if self.fairness_score() <= other.fairness_score():
             return False
 
         return True
@@ -527,12 +634,46 @@ class TimelineStudents(TimelineUniversity):
         
         return count, day_lecture
     
+    def alone_lecture(self):
+        list_day_one = []
+        for day in range(self.days):
+            num_hours = 0
+            start_hour = None
+            find_lecture = None
+            two_lecture = False
+            for hour in range(self.hours):
+                lecture = self.timeline[day][hour]
+                if lecture is not None:
+                    if find_lecture is None:
+                        find_lecture = lecture
+                        start_hour = hour
+                        num_hours += 1
+                    elif find_lecture == lecture:
+                        num_hours += 1
+                    else:
+                        two_lecture = True
+                        break
+
+            if find_lecture is not None and not two_lecture and num_hours <= 2:
+                list_day_one.append((day, start_hour))
+        
+        return list_day_one  
 
 class TimelineTourism(Timeline):
-    # each task has the following format: TOUR_ID-POI_ID*TIME_VISITbyGUIDE_ID
     def __init__(self):
         super().__init__()
         self.distance = 0
+
+    def get_guide(self, item, day, hour):
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(i.split('by')[-1])
+            else:
+                return int(self.timeline[day][hour].split('by')[-1])
+            
+        return None
 
     def has_overlaps(self) -> bool:
         df_dist = pd.read_csv(dataset_poi_distance_file)
@@ -574,7 +715,6 @@ class TimelineTourism(Timeline):
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()
     
-    #remove the walking distance from the timeline
     def clear_distance(self):
         if not self.has_overlaps():
             df_tour = pd.read_csv(dataset_tour_file)
@@ -607,7 +747,6 @@ class TimelineTourism(Timeline):
                             self.add_item(clear_item, day, hour, int(np.ceil(real_time_visit/60))) 
 
 
-    # add the walking distance between two POIs
     def compute_distance(self):
         #The timeline has overlaps?
         if self.has_overlaps():
@@ -798,7 +937,7 @@ class TimelineGuides(TimelineTourism):
         #FIRST: constraints on POIs (closure hours/days)
         for _, row in df_constraints_poi.iterrows():
             self.__add_new_constraint(row, impossible, undesired, map_week_days)
-
+            
         #SECOND: constraints on guide
         for _, row in df_constraints_guide.iterrows():
             self.__add_new_constraint(row, impossible, undesired, map_week_days, guide = True)
@@ -869,7 +1008,7 @@ class TimelineGuides(TimelineTourism):
         if not self.satisfied_mandatory():
             score += -1000 * len(super().find_overlaps())
             if not self.satisfied_impossible_constraints():
-                score += -501 * len(self.get_unsatisfied_impossible_constraints())
+                score += -1 * len(self.get_unsatisfied_impossible_constraints())
 
         for day,hour in self.get_unsatisfied_constraints():
             constraints_keys = self.constraints[day][hour].keys()
