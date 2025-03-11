@@ -27,7 +27,6 @@ module_id,prof_id,n_hours,degree,degree_year
 6,41,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2
 7,31,3,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
 7,31,2,Laurea in Bioinformatica [419] Corsi di laurea - UNICO,1
-8,86,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 9,86,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 10,30,2,Laurea in Informatica [420] Corsi di laurea - UNICO,3
 11,68,2,Laurea magistrale in Ingegneria e scienze informatiche [417] Corsi di laurea magistrale - Classe LM-32,"[1,2]"
@@ -153,8 +152,6 @@ module_id,prof_id,n_hours,degree,degree_year
 81,32,2,Laurea magistrale in Artificial Intelligence [1046] Corsi di laurea magistrale - UNICO,"[1,2]"
 82,32,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 82,32,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
-82,112,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
-82,112,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 83,112,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 83,112,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 84,14,2,Laurea magistrale in Data Science [955] Corsi di laurea magistrale - UNICO,"[1,2]"
@@ -222,9 +219,6 @@ module_id,prof_id,n_hours,degree,degree_year
 119,70,2,Laurea in Innovazione e sostenibilita' nella produzione industriale di alimenti [1049] Corsi di laurea - UNICO,2
 120,70,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
 120,113,2,Laurea magistrale in Biotecnologie agro-alimentari [388] Corsi di laurea magistrale - UNICO,2
-121,39,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
-122,60,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
-122,110,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 123,35,2,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 124,35,3,Laurea in Informatica [420] Corsi di laurea - UNICO,1
 125,85,2,Laurea in Informatica [420] Corsi di laurea - UNICO,2

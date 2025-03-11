@@ -1,4 +1,4 @@
-The file schedule.csv shows the timeline of the first semester (from October to January) of this academic year.
+The file schedule.csv shows the timeline of the first semester (from October to January) of an academic year.
 The fields of the file are:
 id --> id of the professor
 week_day --> the day of the week on which the lesson is scheduled
