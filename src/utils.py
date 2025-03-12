@@ -1,23 +1,27 @@
 import math
 import random
 
-def computeParetoFront(paretoSet):  #new
+def computeParetoFront(paretoSet):
     paretoFront = set()
     for p in paretoSet:
+        
         isDominated = False
         for q in paretoSet:
-            if p.dominate(q):
+            if q.dominate(p):
                 isDominated = True
                 break
         if not isDominated:
             paretoFront.add(p)
         
         #paretoFront.add(p)
-
+    
+    if len(paretoFront) == 0:
+        paretoFront.add(max(paretoSet, key=lambda x: x.fairness_score()))
+    
     return paretoFront
 
 
-def energy_(perturbate_solution, paretoFront): #ok
+def energy_(perturbate_solution, paretoFront):
     energy = 0
 
     for p in paretoFront:
@@ -26,12 +30,12 @@ def energy_(perturbate_solution, paretoFront): #ok
     return energy
 
 
-def energy(perturbate_solution, paretoSet):  #new
+def energy(perturbate_solution, paretoSet):
     paretoFront = computeParetoFront(paretoSet)
     return energy_(perturbate_solution, paretoFront)
 
 
-def energyDifference(current_solution, perturbated_solution, paretoFront):        #new
+def energyDifference(current_solution, perturbated_solution, paretoFront):
     pSet = set()
     pSet.add(current_solution)
     pSet.add(perturbated_solution)
@@ -48,7 +52,7 @@ def energyDifference(current_solution, perturbated_solution, paretoFront):      
     return energyDiff
 
 
-def acceptanceProbability(current_solution, perturbated_solution, temperature, paretoFront): #new
+def acceptanceProbability(current_solution, perturbated_solution, temperature, paretoFront):
     #TODO: forse aggiungere qualcosa qui
     energyDiff = energyDifference(current_solution, perturbated_solution, paretoFront)
     prob = math.exp(-energyDiff / temperature)
@@ -102,7 +106,7 @@ def find_random_item(timeline, random_slot = True, day_choose = None, hour_choos
     return item, day_choose, hour_start, length_slot
 
 
-def updateParetoSet(perturbated_solution, paretoSet): #new
+def updateParetoSet(perturbated_solution, paretoSet):
     isDominated = False
     dominatedSet = set()
 

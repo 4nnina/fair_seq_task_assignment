@@ -380,21 +380,8 @@ class GlobalTourismFromLocal(GlobalTourism):
                                         else:
                                             guide.timeline[day][hour] = i
         elif start_from == 'guide':
-            #first step: clean tour timelins
-            dict_lesson_tour = {}
+            #first step: clean tour timelines
             for tour in self.list_tour:
-                for day in range(tour.days):
-                    for hour in range(tour.hours):
-                        items = tour.timeline[day][hour]
-                        if items is not None:
-                            if '+' in items:
-                                item_list = items.split('+')
-                            else:
-                                item_list = [items]
-                                
-                            for i in item_list:
-                                dict_lesson_tour[i] = tour.tour_id
-
                 tour.timeline = [[None for _ in range(tour.hours)] for _ in range(tour.days)]
 
             #second pupulate timeline
@@ -409,11 +396,8 @@ class GlobalTourismFromLocal(GlobalTourism):
                                 item_list = [items]
                                 
                             for i in item_list:
-                                if i in dict_lesson_tour.keys():
-                                    tour_slot = dict_lesson_tour[i]
-                                else:
-                                    continue
-                            
+                                tour_slot = int(i.split('-')[0])
+                                
                                 for tour in self.list_tour:
                                     if tour.tour_id == tour_slot:
                                         if tour.timeline[day][hour] is not None:

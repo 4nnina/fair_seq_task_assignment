@@ -7,6 +7,8 @@ sys.path.append(os.path.abspath(".."))
 from local_sol.data_classes_local import  TimelineProfessors, TimelineStudents, TimelineGuides, TimelineTours, TimelineTourism
 from utils import *
 
+print_ = False
+
 #swap two random elements of the timeline
 def swap(timeline):
     possible_swap = False
@@ -353,7 +355,7 @@ def perturbate_with_heu(solution_obj):
 # alpha: alpha, float  
 # maxPerturbation: max perturbation, int
 # heuristic: boolean, True if you want to use the heuristic (fairness), False if not
-def performSa(curr_sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbation, heuristic = False):
+def performSa(curr_sol, paretoSet, paretoFront, initialTemp, finalTemp, alpha, maxPerturbation, heuristic = False):
     temperature = initialTemp
     c = 0
     while temperature > finalTemp:
@@ -366,7 +368,11 @@ def performSa(curr_sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbatio
             if perturb_sol == curr_sol:
                 continue
 
-            p = acceptanceProbability(curr_sol, perturb_sol, temperature, paretoSet)
+            if print_:
+                print("Pareto Front size: ", len(paretoFront))
+                print("Pareto Set size: ", len(paretoSet))
+
+            p = acceptanceProbability(curr_sol, perturb_sol, temperature, paretoFront)
 
             if random.uniform(0, 1) < p :
                 updateParetoSet(perturb_sol, paretoSet)
@@ -374,14 +380,19 @@ def performSa(curr_sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbatio
 
         c += 1
         temperature = initialTemp - alpha * c
+        
 
     return paretoSet
 
 
-def getBestSolLocal(curr_sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbation, heuristic = False):
+def getBestSolLocal(curr_sol, initialTemp, finalTemp, alpha, maxPerturbation, heuristic = False):
     sol = copy.deepcopy(curr_sol)
-    p_set = performSa(sol, paretoSet, initialTemp, finalTemp, alpha, maxPerturbation, heuristic)
+    paretoSet = set()
+    paretoSet.add(sol)
+    paretoFront = computeParetoFront(paretoSet)
 
-    best_sol = max(p_set, key = lambda x: x.fairness_score())
+    paretoSet = performSa(sol, paretoSet, paretoFront, initialTemp, finalTemp, alpha, maxPerturbation, heuristic)
+
+    best_sol = max(paretoSet, key = lambda x: x.fairness_score())
 
     return best_sol
