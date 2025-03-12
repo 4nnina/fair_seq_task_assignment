@@ -7,9 +7,13 @@ There are two case studies: the timetable creation problem for the University do
 In `src` there is the source code structured as follows:
 
 📂 `global_sol`  contains the files with the implementation of the classes, methods, and functions for the **global solution**.
-📂 ` local_sol` folder contains the files with the implementation of the classes, methods, and functions for the **local solution**.
+
+📂 `local_sol` folder contains the files with the implementation of the classes, methods, and functions for the **local solution**.
+
 📄 `utils.py` contains the function necessary for the execution of **MOSA** and **FaST-MOSA**, both for local and global subproblems.
+
 📄 `results_tourism.ipynb` is an example of execution for the *Tourism traveling planning* problem.
+
 📄 `results_university.ipynb` is an example of execution for the *University timetable construction* problem.
 
 You can modify the fairness computation and add a new function modifying the `data_classes` files and, if necessary, adding the condition on `perturbate_with_heu` function in `utils`.
