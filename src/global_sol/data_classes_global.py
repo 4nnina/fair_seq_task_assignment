@@ -1,6 +1,8 @@
 import copy
 import sys
 import os
+import numpy as np
+import math
 sys.path.append(os.path.abspath(".."))
 from local_sol.data_classes_local import TimelineProfessors, TimelineStudents, TimelineGuides, TimelineTours
 
@@ -68,10 +70,86 @@ class GlobalUniversity():
             stud_score += degree.fairness_score()
 
 
-        return (prof_score/len(self.list_prof) + stud_score/len(self.list_degree))/2        
+        return (prof_score/len(self.list_prof) + stud_score/len(self.list_degree))/2     
+
+    def avg_fairness_degree(self):
+        stud_score = []
+
+        for degree in self.list_degree:
+            stud_score.append(degree.fairness_score())
+        
+        return np.mean(np.array(stud_score))
+    
+    def avg_fairness_prof(self):
+        prof_score = []
+
+        for prof in self.list_prof:
+            prof_score.append(prof.fairness_score())
+
+        return np.mean(np.array(prof_score))
+    
+    def avg_fairness(self):
+        return (self.avg_fairness_degree() + self.avg_fairness_prof())/2
+
+    
+    def get_fairness_scores_dict_prof(self):
+        list_fairness = dict()
+        for prof in self.list_prof:
+            list_fairness[prof.name] = prof.fairness_score()
+        return list_fairness
+        
+    def get_fairness_scores_dict_degree(self):
+        list_fairness = dict()
+        for degree in self.list_degree:
+            list_fairness[(degree.degree, degree.year)] = degree.fairness_score()
+        return list_fairness
+    
+    def std_fairness_degree(self):
+        stud_score = []
+
+        for degree in self.list_degree:
+            stud_score.append(degree.fairness_score())
+        
+        return np.std(np.array(stud_score))
+    
+    def std_fairness_prof(self):
+        prof_score = []
+
+        for prof in self.list_prof:
+            prof_score.append(prof.fairness_score())
+
+        return np.std(np.array(prof_score))
+    
+    def std_fairness(self):
+        avg_prof = self.avg_fairness_prof()
+        avg_degree = self.avg_fairness_degree()
+
+        prof_sq_mean = 0
+        for prof in self.list_prof:
+            prof_sq_mean += (prof.fairness_score()-avg_prof)**2
+
+        degree_sq_mean = 0
+        for degree in self.list_degree:
+            degree_sq_mean += (degree.fairness_score()-avg_degree)**2
+
+        return math.sqrt(prof_sq_mean/len(self.list_prof) + degree_sq_mean/len(self.list_degree))
+
+    def get_list_obj(self):
+        res = [self.avg_fairness_degree(), self.avg_fairness_degree(), self.avg_fairness()] #avgs
+        res.append(self.std_fairness_degree())
+        res.append(self.std_fairness_prof())
+        res.append(self.std_fairness())
+
+        return res
+
+
     
     def dominate(self, other):
-        if self.fairness_score() <= other.fairness_score():
+        
+        #if self.fairness_score() <= other.fairness_score():
+        #    return False
+        
+        if self.avg_fairness() <= other.avg_fairness() or self.std_fairness() >= other.std_fairness():
             return False
 
         return True
@@ -94,10 +172,16 @@ class GlobalUniversity():
 
         for prof in self.list_prof:
             out +=  f'Prof Name: {str(prof.name)}\tFairness Score: {prof.fairness_score()}\t{int((1-prof.real_fairness_score()/prof.sum_contraints())*100)}%' + '\n'
+        out += f'\tAverage Fairness Score: {self.avg_fairness_prof()}\n'
+        out += f'\tStandard Deviation Fairness Score: {self.std_fairness_prof()}\n\n'
 
         for degree in self.list_degree:
             out += f'Degree Name: {str(degree.degree)}\tYear: {str(degree.year)}\tFairness Score: {degree.fairness_score()}' + '\n'
+        out += f'\tAverage Fairness Score: {self.avg_fairness_degree()}\n'
+        out += f'\tStandard Deviation Fairness Score: {self.std_fairness_degree()}\n'
 
+        out += '\nAverage Fairness Score Overall: ' + str(self.avg_fairness()) + '\n'
+        out += 'Standard Deviation Fairness Score Overall: ' + str(self.std_fairness()) + '\n'
         out += '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n'
 
         return out
@@ -132,18 +216,35 @@ class GlobalUniversity():
             
         return (False,'')
     
-    def find_overlap(self):
+    def find_overlaps(self):
         degree_overlap = dict()
         for degree in self.list_degree:
-            if degree.has_overlap():
-                degree_overlap[(degree.degree, degree.year)] = degree.find_overlap()
+            if degree.has_overlaps():
+                degree_overlap[(degree.degree, degree.year)] = degree.find_overlaps()
 
         prof_overlap = dict()
         for prof in self.list_prof:
-            if prof.has_overlap():
-                prof_overlap[prof.name] = prof.find_overlap()
+            if prof.has_overlaps():
+                prof_overlap[prof.name] = prof.find_overlaps()
 
-        return degree_overlap, prof_overlap    
+        return degree_overlap, prof_overlap
+    
+    def get_degree_index(self, degree_name, year):
+        for idx in range(len(self.list_degree)):
+            if self.list_degree[idx].degree == degree_name and self.list_degree[idx].year == year:
+                return idx
+        return -1
+
+    def is_valid(self) -> bool:
+        for degree in self.list_degree:
+            if not degree.is_valid():
+                return False
+
+        for prof in self.list_prof:
+            if not prof.is_valid():
+                return False
+            
+        return True    
 
 
 class GlobalUniveristyFromLocal(GlobalUniversity):
@@ -287,7 +388,78 @@ class GlobalTourism():
             tour_score += tour.fairness_score()
 
 
-        return (guide_score/len(self.list_guide) + tour_score/len(self.list_tour))/2        
+        return (guide_score/len(self.list_guide) + tour_score/len(self.list_tour))/2   
+
+    def avg_fairness_tour(self):
+        stud_score = []
+
+        for tour in self.list_tour:
+            stud_score.append(tour.fairness_score())
+        
+        return np.mean(np.array(stud_score))
+    
+    def avg_fairness_guide(self):
+        guide_score = []
+
+        for guide in self.list_guide:
+            guide_score.append(guide.fairness_score())
+
+        return np.mean(np.array(guide_score))
+    
+    def avg_fairness(self):
+        return (self.avg_fairness_tour() + self.avg_fairness_guide())/2
+
+    
+    def get_fairness_scores_dict_guide(self):
+        list_fairness = dict()
+        for guide in self.list_guide:
+            list_fairness[guide.guide] = guide.fairness_score()
+        return list_fairness
+        
+    def get_fairness_scores_dict_tour(self):
+        list_fairness = dict()
+        for tour in self.list_tour:
+            list_fairness[(tour.tour_id)] = tour.fairness_score()
+        return list_fairness
+    
+    def std_fairness_tour(self):
+        stud_score = []
+
+        for tour in self.list_tour:
+            stud_score.append(tour.fairness_score())
+        
+        return np.std(np.array(stud_score))
+    
+    def std_fairness_guide(self):
+        guide_score = []
+
+        for guide in self.list_guide:
+            guide_score.append(guide.fairness_score())
+
+        return np.std(np.array(guide_score))
+    
+    def std_fairness(self):
+        avg_guide = self.avg_fairness_guide()
+        avg_tour = self.avg_fairness_tour()
+
+        guide_sq_mean = 0
+        for guide in self.list_guide:
+            guide_sq_mean += (guide.fairness_score()-avg_guide)**2
+
+        tour_sq_mean = 0
+        for tour in self.list_tour:
+            tour_sq_mean += (tour.fairness_score()-avg_tour)**2
+
+        return math.sqrt(guide_sq_mean/len(self.list_guide) + tour_sq_mean/len(self.list_tour))
+
+    def get_list_obj(self):
+        res = [self.avg_fairness_tour(), self.avg_fairness_tour(), self.avg_fairness()] #avgs
+        res.append(self.std_fairness_tour())
+        res.append(self.std_fairness_guide())
+        res.append(self.std_fairness())
+
+        return res
+     
     
     def dominate(self, other):
         if self.fairness_score() <= other.fairness_score():
@@ -313,11 +485,19 @@ class GlobalTourism():
 
         for guide in self.list_guide:
             out +=  f'Guide name: {str(guide.guide)}\tFairness Score: {guide.fairness_score()}\n'
+        out += f'\tAverage Fairness Score: {self.avg_fairness_guide()}\n'
+        out += f'\tStandard Deviation Fairness Score: {self.std_fairness_guide()}\n\n'
+
 
         out += '\n'
         for tour in self.list_tour:
             out += f'Tour Name: {str(tour.tour_id)}\tFairness Score: {tour.fairness_score()}' + '\n'
 
+        out += f'\tAverage Fairness Score: {self.avg_fairness_tour()}\n'
+        out += f'\tStandard Deviation Fairness Score: {self.std_fairness_tour()}\n'
+
+        out += '\nAverage Fairness Score Overall: ' + str(self.avg_fairness()) + '\n'
+        out += 'Standard Deviation Fairness Score Overall: ' + str(self.std_fairness()) + '\n'
         out += '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n'
 
         return out
@@ -339,7 +519,54 @@ class GlobalTourism():
         return True
     
     def __hash__(self):
-        return hash(str(self))   
+        return hash(str(self)) 
+
+    def has_overlap(self):
+        for tour in self.list_tour:
+            if tour.has_overlap():
+                return (True, 'stud')
+
+        for guide in self.list_guide:
+            if guide.has_overlap():
+                return (True, 'guide')
+            
+        return (False,'')
+    
+    def find_overlaps(self):
+        tour_overlap = dict()
+        for tour in self.list_tour:
+            if tour.has_overlaps():
+                tour_overlap[(tour.tour_id)] = tour.find_overlaps()
+
+        guide_overlap = dict()
+        for guide in self.list_guide:
+            if guide.has_overlaps():
+                guide_overlap[guide.guide] = guide.find_overlaps()
+
+        return tour_overlap, guide_overlap
+    
+    def get_tour_index(self, tour_name, year):
+        for idx in range(len(self.list_tour)):
+            if self.list_tour[idx].tour == tour_name and self.list_tour[idx].year == year:
+                return idx
+        return -1  
+    
+    def is_valid(self) -> bool:
+        for tour in self.list_tour:
+            if not tour.is_valid():
+                return False
+
+        for guide in self.list_guide:
+            if not guide.is_valid():
+                return False
+            
+        return True
+    
+    def get_tour_index(self, tour_id):
+        for idx in range(len(self.list_tour)):
+            if self.list_tour[idx].tour_id == tour_id:
+                return idx
+        return -1
 
 
 class GlobalTourismFromLocal(GlobalTourism):

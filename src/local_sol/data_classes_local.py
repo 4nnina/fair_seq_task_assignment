@@ -11,8 +11,8 @@ sys.path.append(os.path.abspath(".."))
 
 current_dir = os.getcwd()
 src_dir = os.path.dirname(current_dir)
-parent_dir = os.path.dirname(src_dir)   
-dataset_path = os.path.join(parent_dir, 'dataset')
+#parent_dir = os.path.dirname(src_dir)   
+dataset_path = os.path.join(src_dir, 'dataset')
 
 dataset_timeslot_file = os.path.join(dataset_path,'university/lecture_timeslots.csv')
 data_prof_cons_file = os.path.join(dataset_path,'university/constraint_professors.csv')
@@ -102,6 +102,9 @@ class Timeline():
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()
     
+    def is_valid(self) -> bool:
+        return not self.has_overlaps()
+    
     def has_lunch_break(self) -> bool:
         for day in range(self.days):
             not_lunch = list()
@@ -130,17 +133,19 @@ class Timeline():
     #remove an item from a timeslot
     def remove_item(self, item, day, hour, lenght_slot):
         for slot in range(hour, hour + lenght_slot):
-            list_item = self.timeline[day][slot].split('+')
             try:
+                list_item = self.timeline[day][slot].split('+')
                 list_item.remove(item)
+
+                if len(list_item) == 0:
+                    self.timeline[day][slot] = None
+                else:
+                    self.timeline[day][slot] = '+'.join(list_item)
             except:
                 print(f'Item {item} not found in slot {day} {slot}')
-                print(self)
+                #print(self)
 
-            if len(list_item) == 0:
-                self.timeline[day][slot] = None
-            else:
-                self.timeline[day][slot] = '+'.join(list_item)
+            
 
     #add an item in a timeslot
     def add_item(self, item, day, hour, lenght_slot):
@@ -361,24 +366,15 @@ class TimelineProfessors(TimelineUniversity):
         return True
 
     def satisfied_mandatory(self) -> bool:
-        return super().satisfied_mandatory() and self.satisfied_impossible_constraints()
-    
-    def get_unsatisfied_impossible_constraints(self) -> list:
-        unsatisfied = []
-        for day in range(self.days):
-            for hour in range(self.hours):
-                if self.constraints[day][hour] == -1 and self.timeline[day][hour] is not None:
-                    unsatisfied.append((day, hour))
-        return unsatisfied
-    
+        return super().satisfied_mandatory()
+
     #return only soft constraints
     def get_unsatisfied_constraints(self) -> list:
         unsatisfied = []
         for day in range(self.days):
             for hour in range(self.hours):
                 if self.constraints[day][hour] is not None and self.timeline[day][hour] is not None:
-                    if self.constraints[day][hour] != -1:
-                        unsatisfied.append((day, hour))
+                    unsatisfied.append((day, hour))
         return unsatisfied
 
     def fairness_score(self) -> float:
@@ -469,6 +465,16 @@ class TimelineStudents(TimelineUniversity):
     
     def __hash__(self):
         return super().__hash__() + hash(self.degree) + hash(self.year)
+    
+    def get_all_items(self) -> list:
+        items = set()
+        for day in range(self.days):
+            for hour in range(self.hours):
+                if self.timeline[day][hour] is not None:
+                    slot_items = self.timeline[day][hour].split('+')
+                    for item in slot_items:
+                        items.add(item)
+        return list(items)
     
     def obj_fun_gap(self) -> float:
         gap_h = 0
@@ -713,134 +719,7 @@ class TimelineTourism(Timeline):
         return False
     
     def satisfied_mandatory(self) -> bool:
-        return not self.has_overlaps()
-    
-    def clear_distance(self):
-        if not self.has_overlaps():
-            df_tour = pd.read_csv(dataset_tour_file)
-            df_tour['tour_id'] = df_tour['tour_id'].apply(lambda x: int(x))
-            df_tour['poi_id'] = df_tour['poi_id'].apply(lambda x: int(x))
-            df_tour['time_visit'] = df_tour['time_visit'].apply(lambda x: int(x))
-
-            for day in range(self.days):
-                for hour in range(self.hours):
-                    if self.timeline[day][hour] is not None:
-                        #TOUR_ID-POI_ID*TIME_VISITbyGUIDE_ID
-                        tour_id, remains = self.timeline[day][hour].split('-')
-                        poi_id, remains = remains.split('*')
-                        time_visit, guide_id = remains.split('by')
-
-                        tour_id = int(tour_id)
-                        poi_id = int(poi_id)
-                        time_visit = int(time_visit)
-                        guide_id = int(guide_id)
-
-                        real_time_visit = df_tour[(df_tour['tour_id'] == tour_id) & (df_tour['poi_id'] == poi_id)]['time_visit'].values[0]
-
-                        if time_visit != real_time_visit:
-                            if time_visit > 60:
-                                self.remove_item(self.timeline[day][hour], day, hour, int(np.ceil(time_visit/60)))
-                            else:   
-                                self.remove_item(self.timeline[day][hour], day, hour, 1)
-
-                            clear_item = f'{tour_id}-{poi_id}*{real_time_visit}by{guide_id}'
-                            self.add_item(clear_item, day, hour, int(np.ceil(real_time_visit/60))) 
-
-
-    def compute_distance(self):
-        #The timeline has overlaps?
-        if self.has_overlaps():
-            #YES, the timeline is not valid
-            self.distance = inf_dist
-            #return
-        else:
-            #NO, we can compute
-            self.distance = 0
-
-            df_dist = pd.read_csv(dataset_poi_distance_file)
-            df_tour = pd.read_csv(dataset_tour_file)
-
-            df_dist['poi_1'] = df_dist['poi_1'].apply(lambda x: int(x))
-            df_dist['poi_2'] = df_dist['poi_2'].apply(lambda x: int(x))
-            df_tour['tour_id'] = df_tour['tour_id'].apply(lambda x: int(x))
-            df_tour['poi_id'] = df_tour['poi_id'].apply(lambda x: int(x))
-            df_tour['time_visit'] = df_tour['time_visit'].apply(lambda x: int(x))
-
-            #FIRST: clean the timeline from the duration
-            self.clear_distance()
-
-            #SECOND: compute the distance between POIs
-            for day in range(self.days):
-                poi1 = None
-                slot1 = None
-                for hour in range(self.hours):
-                    if self.timeline[day][hour] is not None:
-                        p = self.get_poi(day,hour)
-                        slot = self.timeline[day][hour]
-                        if slot1 is not None and slot == slot1: #p[0] == poi1:    #there is a POI which time_visit is more than one slot (an hour)
-                            continue
-                        elif '+' in slot:
-                            item_slot_before, slot1 = slot.split('+')
-                            poi1 = p[1]
-                            more_poi = True
-                        else:
-                            poi1 = p[0]
-                            slot1 = slot
-                            more_poi = False
-
-                        next =  False
-                        hour_second = hour+1
-                        while not next and hour_second < self.hours:
-                            if self.timeline[day][hour_second] is not None:
-                                poi2 = self.get_poi(day,hour_second)
-                                poi2 = poi2[0]
-                                if poi1 != poi2:
-                                    dist_pois = df_dist[(df_dist['poi_1'] == poi1) & (df_dist['poi_2'] == poi2)]['distance_minutes'].values[0]   
-                                    next = True
-                                else:
-                                    hour_second += 1
-                            else:
-                                hour_second += 1
-                            
-                        if next:
-                            tour_id = slot1.split('-')[0]
-                            visit_duration = df_tour[(df_tour['tour_id'] == int(tour_id)) & (df_tour['poi_id'] == poi1)]['time_visit'].values[0]
-                            visit_duration += dist_pois
-
-                            self.distance += dist_pois
-                            
-                            first_part = slot1.split('*')[0]
-                            second_part = slot1.split('by')[1]
-
-                            new_slot = first_part + '*' + str(visit_duration) + 'by' + second_part
-                            
-                            #old_slot = self.timeline[day][hour].split('+')[-1]
-
-                            if more_poi:
-                                self.timeline[day][hour] = item_slot_before + '+' + new_slot
-                            else:
-                                self.timeline[day][hour] = new_slot
-                            #self.timeline[day][hour] = first_part + '*' + str(visit_duration) + 'by' + second_part
-
-                            if visit_duration > 60:
-                                #more thant an hour
-                                if self.timeline[day][hour+1] is not None:
-                                    #the next slot is not empty
-                                    if self.timeline[day][hour+1] == slot1:
-                                        #the next slot is the same of the old slot (same item)
-                                        self.timeline[day][hour+1] = new_slot
-                                    else:
-                                        #the next slot is different
-                                        if hour-1 >= 0 and self.timeline[day][hour-1] is None:
-                                            #the previous slot is empty
-                                            self.timeline[day][hour-1] = new_slot
-                                        else:
-                                            self.timeline[day][hour+1] = new_slot + '+' + self.timeline[day][hour+1]
-                                else:
-                                    #the next slot is empty
-                                    self.timeline[day][hour+1] = new_slot
-                                slot1 = new_slot
-                                
+        return not self.has_overlaps()                          
 
     def get_poi(self, day, hour):
         if self.timeline[day][hour] is None:
@@ -859,6 +738,27 @@ class TimelineTourism(Timeline):
             pois = [int(poi)]
 
         return pois
+    
+    def get_guide(self, item, day, hour):
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(i.split('by')[-1].split('-')[0])
+            else:
+                return int(self.timeline[day][hour].split('by')[-1].split('-')[0])
+            
+        return None
+    
+    def get_hours(self, item, day, hour): #TODO : serve
+        if self.timeline[day][hour] is not None:
+            if '+' in self.timeline[day][hour]:
+                for i in self.timeline[day][hour].split('+'):
+                    if item == i:
+                        return int(self.timeline[day][hour].split('-')[-1])
+            else:
+                return int(self.timeline[day][hour].split('-')[-1])
+        return None
 
 
 class TimelineGuides(TimelineTourism):
@@ -922,7 +822,6 @@ class TimelineGuides(TimelineTourism):
                 else:
                     self.timeline[day][hour+i] = self.timeline[day][hour+i] + '+' \
                                                 + str(df_tours.iloc[idx]['tour_id']) + '-' + str(df_tours.iloc[idx]['poi_id']) + '*' + str(df_tours.iloc[idx]['time_visit']) + 'by' + str(guide_id)
-        self.compute_distance()
 
         #initialize constraints
         impossible = -1
@@ -968,23 +867,7 @@ class TimelineGuides(TimelineTourism):
         return True
 
     def satisfied_mandatory(self) -> bool:
-        return super().satisfied_mandatory() and self.satisfied_impossible_constraints()
-
-    def get_unsatisfied_impossible_constraints(self) -> list:
-        unsatisfied = []
-        for day in range(self.days):
-            for hour in range(self.hours):
-                if self.constraints[day][hour] is not None and self.timeline[day][hour] is not None:
-                    constraints_keys = self.constraints[day][hour].keys()
-                    if 'g' in constraints_keys and self.constraints[day][hour]['g'] == -1:
-                        unsatisfied.append((day, hour))
-                    else:
-                        pois = self.get_poi(day,hour)
-                        for poi in pois:
-                            if poi in constraints_keys and self.constraints[day][hour][poi] == -1:
-                                unsatisfied.append((day, hour))
-                                break
-        return unsatisfied
+        return super().satisfied_mandatory()
     
     #return only soft constraints
     def get_unsatisfied_constraints(self) -> list:
@@ -993,12 +876,12 @@ class TimelineGuides(TimelineTourism):
             for hour in range(self.hours):
                 if self.constraints[day][hour] is not None and self.timeline[day][hour] is not None:
                     constraints_keys = self.constraints[day][hour].keys()
-                    if 'g' in constraints_keys and self.constraints[day][hour]['g'] != -1:
+                    if 'g' in constraints_keys:
                         unsatisfied.append((day, hour))
                     else:
                         pois = self.get_poi(day,hour)
                         for poi in pois:
-                            if poi in constraints_keys and self.constraints[day][hour][poi] != -1:
+                            if poi in constraints_keys:
                                 unsatisfied.append((day, hour))
                                 break
         return unsatisfied
@@ -1007,17 +890,15 @@ class TimelineGuides(TimelineTourism):
         score = 0
         if not self.satisfied_mandatory():
             score += -1000 * len(super().find_overlaps())
-            if not self.satisfied_impossible_constraints():
-                score += -1 * len(self.get_unsatisfied_impossible_constraints())
 
         for day,hour in self.get_unsatisfied_constraints():
             constraints_keys = self.constraints[day][hour].keys()
-            if 'g' in constraints_keys and self.constraints[day][hour]['g'] != -1:
+            if 'g' in constraints_keys:
                 score += self.constraints[day][hour]['g']
             else:
                 pois = self.get_poi(day,hour)
                 for poi in pois:
-                    if poi in constraints_keys and self.constraints[day][hour][poi] != -1:
+                    if poi in constraints_keys:
                         score += self.constraints[day][hour][poi]
 
         return score
@@ -1059,10 +940,19 @@ class TimelineTours(TimelineTourism):
                     self.timeline[day][hour+i] = self.timeline[day][hour+i] + '+' \
                                                 + str(df_tours.iloc[idx]['tour_id']) + '-' + str(df_tours.iloc[idx]['poi_id']) + '*' + str(df_tours.iloc[idx]['time_visit']) + 'by' + str(df_tours.iloc[idx]['guide_id'])
 
-        self.compute_distance()
 
     def __str__(self):
         return f'TOUR: {self.tour_id}\n' + super().__str__()
+    
+    def get_all_items(self) -> list:
+        items = set()
+        for day in range(self.days):
+            for hour in range(self.hours):
+                if self.timeline[day][hour] is not None:
+                    slot_items = self.timeline[day][hour].split('+')
+                    for item in slot_items:
+                        items.add(item)
+        return list(items)
 
     def satisfied_mandatory(self) -> bool:
         return not self.has_overlaps()

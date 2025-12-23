@@ -139,9 +139,6 @@ def move_to(timeline, day, hour, day_to, hour_busy):
 #return a new perturbated solution object of the class Timeline
 def perturbate(solution_obj):
     perturbated_solution = copy.deepcopy(solution_obj)
-    
-    if isinstance(perturbated_solution, TimelineTourism):
-        perturbated_solution.clear_distance()
 
     operation = random.randrange(2)
 
@@ -152,9 +149,6 @@ def perturbate(solution_obj):
     else:
         raise Exception("Invalid operation number")
     
-
-    if isinstance(perturbated_solution, TimelineTourism):
-        perturbated_solution.compute_distance()
 
     return perturbated_solution
 
@@ -170,8 +164,6 @@ def perturbate_with_heu(solution_obj):
     else:
         #NO, try to make it fair
         perturbated_solution = copy.deepcopy(solution_obj)
-        if isinstance(perturbated_solution, TimelineTourism):
-            perturbated_solution.clear_distance()
 
         #PROFESSORS
         if isinstance(perturbated_solution, TimelineProfessors):
@@ -179,10 +171,6 @@ def perturbate_with_heu(solution_obj):
             if not perturbated_solution.satisfied_mandatory():
                 #NO
                 list_unsatisfied_constraints = perturbated_solution.find_overlaps()
-
-                if len(list_unsatisfied_constraints) == 0:
-                    #NO OVERLAP, get other unsatisfied constraints
-                    list_unsatisfied_constraints = perturbated_solution.get_unsatisfied_impossible_constraints()
                 
             else:
                 #YES
@@ -259,11 +247,6 @@ def perturbate_with_heu(solution_obj):
             if not perturbated_solution.satisfied_mandatory():
                 #NO
                 list_unsatisfied_constraints = perturbated_solution.find_overlaps()
-
-                if len(list_unsatisfied_constraints) == 0:
-                    #NO OVERLAP, get other unsatisfied constraints
-                    list_unsatisfied_constraints = perturbated_solution.get_unsatisfied_impossible_constraints()
-                
             else:
                 #YES
                 list_unsatisfied_constraints = perturbated_solution.get_unsatisfied_constraints()
@@ -276,7 +259,7 @@ def perturbate_with_heu(solution_obj):
             day, hour = list_unsatisfied_constraints[random.randrange(len(list_unsatisfied_constraints))]
             move(perturbated_solution, False, day, hour)
 
-            perturbated_solution.compute_distance()
+            
             return perturbated_solution
 
         #TOURS
@@ -302,7 +285,6 @@ def perturbate_with_heu(solution_obj):
                     move_to(perturbated_solution, day, hour, day_to, hour_busy)
 
                     modified = True
-                    #perturbated_solution.compute_distance()
                     #return perturbated_solution DECOMMENT TO SOLVE IN ORDER AND ONE AT TIME
 
                 #check if there are gap during the day
@@ -318,7 +300,7 @@ def perturbate_with_heu(solution_obj):
                             empty_slot = False
                     move(perturbated_solution, False, day, hour)
                     modified = True
-                    #perturbated_solution.compute_distance()
+                    
                     #return perturbated_solution DECOMMENT TO SOLVE IN ORDER AND ONE AT TIME
                 
                 #check if there are gap during the week
@@ -335,13 +317,13 @@ def perturbate_with_heu(solution_obj):
                     
                     switch_days(perturbated_solution, day, day_free)
                     modified = True
-                    #perturbated_solution.compute_distance()
+                    
                     #return perturbated_solution DECOMMENT TO SOLVE IN ORDER AND ONE AT TIME
                 
                 if not modified:
                     return perturbate(solution_obj)
 
-            perturbated_solution.compute_distance()
+            
             return perturbated_solution
         else:
             raise Exception("Invalid solution object")
